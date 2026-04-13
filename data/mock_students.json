@@ -1,0 +1,4506 @@
+[
+  {
+    "student_id": "STU_20240001",
+    "structured_data": {
+      "math_score": 70.4,
+      "politics_score": 74.2,
+      "login_count": 21.0,
+      "video_completion_rate": 0.71
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "学生会竞选经验分享",
+      "最新出的游戏大作评测",
+      "这学期的水课有哪些推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240002",
+    "structured_data": {
+      "math_score": 68.0,
+      "politics_score": 67.5,
+      "login_count": 7.0,
+      "video_completion_rate": 0.49
+    },
+    "unstructured_texts": [
+      "熬夜脱发严重怎么恢复",
+      "感觉自己什么都做不好",
+      "不想上课只想躺平"
+    ]
+  },
+  {
+    "student_id": "STU_20240003",
+    "structured_data": {
+      "math_score": 92.2,
+      "politics_score": 88.3,
+      "login_count": 44.0,
+      "video_completion_rate": 0.89
+    },
+    "unstructured_texts": [
+      "中国人工智能发展史太震撼了",
+      "实验室科研项目推进计划",
+      "强国科技与航天工程",
+      "如何评价最新的大语言模型",
+      "深度学习论文推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240004",
+    "structured_data": {
+      "math_score": 50.7,
+      "politics_score": 54.4,
+      "login_count": 5.0,
+      "video_completion_rate": 0.24
+    },
+    "unstructured_texts": [
+      "不想上课只想躺平",
+      "期末考试挂科了会怎样",
+      "大学毕业找不到工作有多难"
+    ]
+  },
+  {
+    "student_id": "STU_20240005",
+    "structured_data": {
+      "math_score": 70.4,
+      "politics_score": 70.9,
+      "login_count": 26.0,
+      "video_completion_rate": 0.69
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "最新出的游戏大作评测",
+      "晚上宿舍开黑有人吗"
+    ]
+  },
+  {
+    "student_id": "STU_20240006",
+    "structured_data": {
+      "math_score": 93.1,
+      "politics_score": 91.7,
+      "login_count": 36.0,
+      "video_completion_rate": 0.89
+    },
+    "unstructured_texts": [
+      "考研高数复习指南",
+      "强国科技与航天工程",
+      "如何评价最新的大语言模型"
+    ]
+  },
+  {
+    "student_id": "STU_20240007",
+    "structured_data": {
+      "math_score": 78.4,
+      "politics_score": 73.9,
+      "login_count": 30.0,
+      "video_completion_rate": 0.74
+    },
+    "unstructured_texts": [
+      "学生会竞选经验分享",
+      "学校食堂哪家最好吃",
+      "最新出的游戏大作评测",
+      "晚上宿舍开黑有人吗",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240008",
+    "structured_data": {
+      "math_score": 77.5,
+      "politics_score": 83.2,
+      "login_count": 27.0,
+      "video_completion_rate": 0.68
+    },
+    "unstructured_texts": [
+      "这学期的水课有哪些推荐",
+      "最新出的游戏大作评测",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240009",
+    "structured_data": {
+      "math_score": 91.3,
+      "politics_score": 91.3,
+      "login_count": 43.0,
+      "video_completion_rate": 0.88
+    },
+    "unstructured_texts": [
+      "深度学习论文推荐",
+      "大国重器纪录片观后感",
+      "强国科技与航天工程",
+      "实验室科研项目推进计划",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240010",
+    "structured_data": {
+      "math_score": 75.6,
+      "politics_score": 81.4,
+      "login_count": 29.0,
+      "video_completion_rate": 0.51
+    },
+    "unstructured_texts": [
+      "最新出的游戏大作评测",
+      "这学期的水课有哪些推荐",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240011",
+    "structured_data": {
+      "math_score": 92.3,
+      "politics_score": 95.0,
+      "login_count": 38.0,
+      "video_completion_rate": 0.86
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "深度学习论文推荐",
+      "考研高数复习指南",
+      "实验室科研项目推进计划"
+    ]
+  },
+  {
+    "student_id": "STU_20240012",
+    "structured_data": {
+      "math_score": 93.3,
+      "politics_score": 95.0,
+      "login_count": 49.0,
+      "video_completion_rate": 0.94
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "实验室科研项目推进计划",
+      "国家奖学金申请条件",
+      "强国科技与航天工程",
+      "大国重器纪录片观后感"
+    ]
+  },
+  {
+    "student_id": "STU_20240013",
+    "structured_data": {
+      "math_score": 78.7,
+      "politics_score": 79.3,
+      "login_count": 22.0,
+      "video_completion_rate": 0.75
+    },
+    "unstructured_texts": [
+      "学校食堂哪家最好吃",
+      "恋爱区求助帖",
+      "学生会竞选经验分享"
+    ]
+  },
+  {
+    "student_id": "STU_20240014",
+    "structured_data": {
+      "math_score": 86.7,
+      "politics_score": 90.0,
+      "login_count": 32.0,
+      "video_completion_rate": 0.88
+    },
+    "unstructured_texts": [
+      "大国重器纪录片观后感",
+      "如何评价最新的大语言模型",
+      "强国科技与航天工程"
+    ]
+  },
+  {
+    "student_id": "STU_20240015",
+    "structured_data": {
+      "math_score": 50.1,
+      "politics_score": 67.2,
+      "login_count": 11.0,
+      "video_completion_rate": 0.29
+    },
+    "unstructured_texts": [
+      "不想上课只想躺平",
+      "考研压力太大崩溃了",
+      "期末考试挂科了会怎样",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240016",
+    "structured_data": {
+      "math_score": 76.6,
+      "politics_score": 73.4,
+      "login_count": 19.0,
+      "video_completion_rate": 0.79
+    },
+    "unstructured_texts": [
+      "校园歌手大赛报名入口",
+      "恋爱区求助帖",
+      "学生会竞选经验分享",
+      "周末求推荐校园周边的剧本杀"
+    ]
+  },
+  {
+    "student_id": "STU_20240017",
+    "structured_data": {
+      "math_score": 97.2,
+      "politics_score": 90.7,
+      "login_count": 30.0,
+      "video_completion_rate": 0.86
+    },
+    "unstructured_texts": [
+      "强国科技与航天工程",
+      "中国人工智能发展史太震撼了",
+      "大国重器纪录片观后感"
+    ]
+  },
+  {
+    "student_id": "STU_20240018",
+    "structured_data": {
+      "math_score": 60.1,
+      "politics_score": 53.3,
+      "login_count": 11.0,
+      "video_completion_rate": 0.21
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "考研数学复习毫无头绪怎么办",
+      "期末考试挂科了会怎样",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240019",
+    "structured_data": {
+      "math_score": 81.7,
+      "politics_score": 84.0,
+      "login_count": 27.0,
+      "video_completion_rate": 0.66
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "周末求推荐校园周边的剧本杀",
+      "晚上宿舍开黑有人吗"
+    ]
+  },
+  {
+    "student_id": "STU_20240020",
+    "structured_data": {
+      "math_score": 95.6,
+      "politics_score": 92.0,
+      "login_count": 35.0,
+      "video_completion_rate": 0.84
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "实验室科研项目推进计划",
+      "深度学习论文推荐",
+      "国家奖学金申请条件",
+      "考研高数复习指南"
+    ]
+  },
+  {
+    "student_id": "STU_20240021",
+    "structured_data": {
+      "math_score": 66.7,
+      "politics_score": 62.1,
+      "login_count": 15.0,
+      "video_completion_rate": 0.34
+    },
+    "unstructured_texts": [
+      "期末考试挂科了会怎样",
+      "不想上课只想躺平",
+      "大学毕业找不到工作有多难"
+    ]
+  },
+  {
+    "student_id": "STU_20240022",
+    "structured_data": {
+      "math_score": 82.4,
+      "politics_score": 72.6,
+      "login_count": 15.0,
+      "video_completion_rate": 0.66
+    },
+    "unstructured_texts": [
+      "晚上宿舍开黑有人吗",
+      "恋爱区求助帖",
+      "周末求推荐校园周边的剧本杀"
+    ]
+  },
+  {
+    "student_id": "STU_20240023",
+    "structured_data": {
+      "math_score": 97.4,
+      "politics_score": 94.8,
+      "login_count": 40.0,
+      "video_completion_rate": 0.87
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "实验室科研项目推进计划",
+      "考研高数复习指南",
+      "大国重器纪录片观后感",
+      "强国科技与航天工程"
+    ]
+  },
+  {
+    "student_id": "STU_20240024",
+    "structured_data": {
+      "math_score": 77.0,
+      "politics_score": 76.1,
+      "login_count": 23.0,
+      "video_completion_rate": 0.71
+    },
+    "unstructured_texts": [
+      "最新出的游戏大作评测",
+      "学生会竞选经验分享",
+      "这学期的水课有哪些推荐",
+      "晚上宿舍开黑有人吗"
+    ]
+  },
+  {
+    "student_id": "STU_20240025",
+    "structured_data": {
+      "math_score": 62.2,
+      "politics_score": 54.4,
+      "login_count": 8.0,
+      "video_completion_rate": 0.49
+    },
+    "unstructured_texts": [
+      "考研压力太大崩溃了",
+      "就业迷茫期如何度过",
+      "考研数学复习毫无头绪怎么办",
+      "感觉自己什么都做不好"
+    ]
+  },
+  {
+    "student_id": "STU_20240026",
+    "structured_data": {
+      "math_score": 83.5,
+      "politics_score": 70.7,
+      "login_count": 22.0,
+      "video_completion_rate": 0.66
+    },
+    "unstructured_texts": [
+      "晚上宿舍开黑有人吗",
+      "这学期的水课有哪些推荐",
+      "学生会竞选经验分享",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240027",
+    "structured_data": {
+      "math_score": 59.8,
+      "politics_score": 62.8,
+      "login_count": 10.0,
+      "video_completion_rate": 0.25
+    },
+    "unstructured_texts": [
+      "期末考试挂科了会怎样",
+      "考研压力太大崩溃了",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240028",
+    "structured_data": {
+      "math_score": 80.9,
+      "politics_score": 80.6,
+      "login_count": 15.0,
+      "video_completion_rate": 0.73
+    },
+    "unstructured_texts": [
+      "这学期的水课有哪些推荐",
+      "校园歌手大赛报名入口",
+      "周末求推荐校园周边的剧本杀"
+    ]
+  },
+  {
+    "student_id": "STU_20240029",
+    "structured_data": {
+      "math_score": 52.6,
+      "politics_score": 50.8,
+      "login_count": 12.0,
+      "video_completion_rate": 0.48
+    },
+    "unstructured_texts": [
+      "考研压力太大崩溃了",
+      "不想上课只想躺平",
+      "就业迷茫期如何度过",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240030",
+    "structured_data": {
+      "math_score": 80.1,
+      "politics_score": 71.9,
+      "login_count": 21.0,
+      "video_completion_rate": 0.64
+    },
+    "unstructured_texts": [
+      "这学期的水课有哪些推荐",
+      "校园歌手大赛报名入口",
+      "学生会竞选经验分享"
+    ]
+  },
+  {
+    "student_id": "STU_20240031",
+    "structured_data": {
+      "math_score": 82.8,
+      "politics_score": 90.8,
+      "login_count": 49.0,
+      "video_completion_rate": 0.86
+    },
+    "unstructured_texts": [
+      "实验室科研项目推进计划",
+      "考研高数复习指南",
+      "国家奖学金申请条件",
+      "如何评价最新的大语言模型"
+    ]
+  },
+  {
+    "student_id": "STU_20240032",
+    "structured_data": {
+      "math_score": 82.1,
+      "politics_score": 78.0,
+      "login_count": 18.0,
+      "video_completion_rate": 0.52
+    },
+    "unstructured_texts": [
+      "学生会竞选经验分享",
+      "学校食堂哪家最好吃",
+      "这学期的水课有哪些推荐",
+      "周末求推荐校园周边的剧本杀"
+    ]
+  },
+  {
+    "student_id": "STU_20240033",
+    "structured_data": {
+      "math_score": 52.4,
+      "politics_score": 51.7,
+      "login_count": 13.0,
+      "video_completion_rate": 0.42
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "考研数学复习毫无头绪怎么办",
+      "感觉自己什么都做不好",
+      "熬夜脱发严重怎么恢复"
+    ]
+  },
+  {
+    "student_id": "STU_20240034",
+    "structured_data": {
+      "math_score": 66.1,
+      "politics_score": 64.8,
+      "login_count": 12.0,
+      "video_completion_rate": 0.41
+    },
+    "unstructured_texts": [
+      "感觉自己什么都做不好",
+      "考研压力太大崩溃了",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240035",
+    "structured_data": {
+      "math_score": 84.8,
+      "politics_score": 77.1,
+      "login_count": 29.0,
+      "video_completion_rate": 0.73
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "恋爱区求助帖",
+      "学校食堂哪家最好吃",
+      "晚上宿舍开黑有人吗",
+      "学生会竞选经验分享"
+    ]
+  },
+  {
+    "student_id": "STU_20240036",
+    "structured_data": {
+      "math_score": 97.8,
+      "politics_score": 94.8,
+      "login_count": 38.0,
+      "video_completion_rate": 0.82
+    },
+    "unstructured_texts": [
+      "大国重器纪录片观后感",
+      "考研高数复习指南",
+      "深度学习论文推荐",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240037",
+    "structured_data": {
+      "math_score": 96.6,
+      "politics_score": 99.5,
+      "login_count": 50.0,
+      "video_completion_rate": 0.83
+    },
+    "unstructured_texts": [
+      "强国科技与航天工程",
+      "深度学习论文推荐",
+      "实验室科研项目推进计划",
+      "中国人工智能发展史太震撼了",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240038",
+    "structured_data": {
+      "math_score": 52.9,
+      "politics_score": 52.7,
+      "login_count": 7.0,
+      "video_completion_rate": 0.37
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "就业迷茫期如何度过",
+      "考研压力太大崩溃了",
+      "考研数学复习毫无头绪怎么办",
+      "期末考试挂科了会怎样"
+    ]
+  },
+  {
+    "student_id": "STU_20240039",
+    "structured_data": {
+      "math_score": 82.2,
+      "politics_score": 77.5,
+      "login_count": 19.0,
+      "video_completion_rate": 0.75
+    },
+    "unstructured_texts": [
+      "学生会竞选经验分享",
+      "晚上宿舍开黑有人吗",
+      "校园歌手大赛报名入口",
+      "这学期的水课有哪些推荐",
+      "最新出的游戏大作评测"
+    ]
+  },
+  {
+    "student_id": "STU_20240040",
+    "structured_data": {
+      "math_score": 76.8,
+      "politics_score": 80.7,
+      "login_count": 18.0,
+      "video_completion_rate": 0.77
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "学生会竞选经验分享",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240041",
+    "structured_data": {
+      "math_score": 87.1,
+      "politics_score": 80.9,
+      "login_count": 48.0,
+      "video_completion_rate": 0.8
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "强国科技与航天工程",
+      "实验室科研项目推进计划",
+      "中国人工智能发展史太震撼了",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240042",
+    "structured_data": {
+      "math_score": 73.9,
+      "politics_score": 73.0,
+      "login_count": 24.0,
+      "video_completion_rate": 0.55
+    },
+    "unstructured_texts": [
+      "学校食堂哪家最好吃",
+      "周末求推荐校园周边的剧本杀",
+      "晚上宿舍开黑有人吗",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240043",
+    "structured_data": {
+      "math_score": 77.6,
+      "politics_score": 82.6,
+      "login_count": 22.0,
+      "video_completion_rate": 0.67
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "学校食堂哪家最好吃",
+      "晚上宿舍开黑有人吗"
+    ]
+  },
+  {
+    "student_id": "STU_20240044",
+    "structured_data": {
+      "math_score": 82.8,
+      "politics_score": 83.3,
+      "login_count": 47.0,
+      "video_completion_rate": 0.97
+    },
+    "unstructured_texts": [
+      "强国科技与航天工程",
+      "大国重器纪录片观后感",
+      "中国人工智能发展史太震撼了",
+      "考研高数复习指南"
+    ]
+  },
+  {
+    "student_id": "STU_20240045",
+    "structured_data": {
+      "math_score": 54.3,
+      "politics_score": 66.3,
+      "login_count": 11.0,
+      "video_completion_rate": 0.31
+    },
+    "unstructured_texts": [
+      "熬夜脱发严重怎么恢复",
+      "期末考试挂科了会怎样",
+      "感觉自己什么都做不好",
+      "就业迷茫期如何度过",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240046",
+    "structured_data": {
+      "math_score": 71.5,
+      "politics_score": 75.9,
+      "login_count": 27.0,
+      "video_completion_rate": 0.51
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "学生会竞选经验分享",
+      "学校食堂哪家最好吃"
+    ]
+  },
+  {
+    "student_id": "STU_20240047",
+    "structured_data": {
+      "math_score": 90.4,
+      "politics_score": 95.0,
+      "login_count": 45.0,
+      "video_completion_rate": 0.96
+    },
+    "unstructured_texts": [
+      "实验室科研项目推进计划",
+      "深度学习论文推荐",
+      "如何评价最新的大语言模型",
+      "考研高数复习指南",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240048",
+    "structured_data": {
+      "math_score": 79.0,
+      "politics_score": 75.0,
+      "login_count": 24.0,
+      "video_completion_rate": 0.56
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "周末求推荐校园周边的剧本杀",
+      "学校食堂哪家最好吃"
+    ]
+  },
+  {
+    "student_id": "STU_20240049",
+    "structured_data": {
+      "math_score": 84.1,
+      "politics_score": 78.7,
+      "login_count": 28.0,
+      "video_completion_rate": 0.76
+    },
+    "unstructured_texts": [
+      "这学期的水课有哪些推荐",
+      "学生会竞选经验分享",
+      "周末求推荐校园周边的剧本杀"
+    ]
+  },
+  {
+    "student_id": "STU_20240050",
+    "structured_data": {
+      "math_score": 66.8,
+      "politics_score": 65.4,
+      "login_count": 15.0,
+      "video_completion_rate": 0.24
+    },
+    "unstructured_texts": [
+      "考研压力太大崩溃了",
+      "感觉自己什么都做不好",
+      "不想上课只想躺平",
+      "期末考试挂科了会怎样",
+      "熬夜脱发严重怎么恢复"
+    ]
+  },
+  {
+    "student_id": "STU_20240051",
+    "structured_data": {
+      "math_score": 89.8,
+      "politics_score": 96.2,
+      "login_count": 33.0,
+      "video_completion_rate": 0.95
+    },
+    "unstructured_texts": [
+      "实验室科研项目推进计划",
+      "中国人工智能发展史太震撼了",
+      "如何评价最新的大语言模型",
+      "考研高数复习指南",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240052",
+    "structured_data": {
+      "math_score": 90.7,
+      "politics_score": 94.9,
+      "login_count": 42.0,
+      "video_completion_rate": 1.0
+    },
+    "unstructured_texts": [
+      "中国人工智能发展史太震撼了",
+      "强国科技与航天工程",
+      "考研高数复习指南",
+      "深度学习论文推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240053",
+    "structured_data": {
+      "math_score": 50.4,
+      "politics_score": 67.7,
+      "login_count": 10.0,
+      "video_completion_rate": 0.22
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "感觉自己什么都做不好",
+      "就业迷茫期如何度过",
+      "期末考试挂科了会怎样"
+    ]
+  },
+  {
+    "student_id": "STU_20240054",
+    "structured_data": {
+      "math_score": 94.2,
+      "politics_score": 91.5,
+      "login_count": 39.0,
+      "video_completion_rate": 0.94
+    },
+    "unstructured_texts": [
+      "中国人工智能发展史太震撼了",
+      "国家奖学金申请条件",
+      "如何评价最新的大语言模型",
+      "实验室科研项目推进计划"
+    ]
+  },
+  {
+    "student_id": "STU_20240055",
+    "structured_data": {
+      "math_score": 75.0,
+      "politics_score": 75.2,
+      "login_count": 27.0,
+      "video_completion_rate": 0.53
+    },
+    "unstructured_texts": [
+      "校园歌手大赛报名入口",
+      "学校食堂哪家最好吃",
+      "恋爱区求助帖",
+      "晚上宿舍开黑有人吗",
+      "周末求推荐校园周边的剧本杀"
+    ]
+  },
+  {
+    "student_id": "STU_20240056",
+    "structured_data": {
+      "math_score": 91.4,
+      "politics_score": 84.0,
+      "login_count": 42.0,
+      "video_completion_rate": 0.98
+    },
+    "unstructured_texts": [
+      "深度学习论文推荐",
+      "大国重器纪录片观后感",
+      "如何评价最新的大语言模型",
+      "国家奖学金申请条件",
+      "中国人工智能发展史太震撼了"
+    ]
+  },
+  {
+    "student_id": "STU_20240057",
+    "structured_data": {
+      "math_score": 85.9,
+      "politics_score": 99.1,
+      "login_count": 49.0,
+      "video_completion_rate": 0.92
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "强国科技与航天工程",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240058",
+    "structured_data": {
+      "math_score": 79.7,
+      "politics_score": 83.0,
+      "login_count": 20.0,
+      "video_completion_rate": 0.5
+    },
+    "unstructured_texts": [
+      "学校食堂哪家最好吃",
+      "晚上宿舍开黑有人吗",
+      "周末求推荐校园周边的剧本杀",
+      "学生会竞选经验分享"
+    ]
+  },
+  {
+    "student_id": "STU_20240059",
+    "structured_data": {
+      "math_score": 92.0,
+      "politics_score": 87.0,
+      "login_count": 36.0,
+      "video_completion_rate": 0.89
+    },
+    "unstructured_texts": [
+      "大国重器纪录片观后感",
+      "如何评价最新的大语言模型",
+      "深度学习论文推荐",
+      "实验室科研项目推进计划"
+    ]
+  },
+  {
+    "student_id": "STU_20240060",
+    "structured_data": {
+      "math_score": 79.3,
+      "politics_score": 76.8,
+      "login_count": 16.0,
+      "video_completion_rate": 0.55
+    },
+    "unstructured_texts": [
+      "校园歌手大赛报名入口",
+      "恋爱区求助帖",
+      "晚上宿舍开黑有人吗",
+      "学生会竞选经验分享"
+    ]
+  },
+  {
+    "student_id": "STU_20240061",
+    "structured_data": {
+      "math_score": 78.8,
+      "politics_score": 83.0,
+      "login_count": 21.0,
+      "video_completion_rate": 0.52
+    },
+    "unstructured_texts": [
+      "学生会竞选经验分享",
+      "校园歌手大赛报名入口",
+      "学校食堂哪家最好吃",
+      "周末求推荐校园周边的剧本杀"
+    ]
+  },
+  {
+    "student_id": "STU_20240062",
+    "structured_data": {
+      "math_score": 69.2,
+      "politics_score": 66.2,
+      "login_count": 13.0,
+      "video_completion_rate": 0.38
+    },
+    "unstructured_texts": [
+      "熬夜脱发严重怎么恢复",
+      "考研数学复习毫无头绪怎么办",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240063",
+    "structured_data": {
+      "math_score": 66.7,
+      "politics_score": 57.4,
+      "login_count": 6.0,
+      "video_completion_rate": 0.24
+    },
+    "unstructured_texts": [
+      "感觉自己什么都做不好",
+      "熬夜脱发严重怎么恢复",
+      "大学毕业找不到工作有多难",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240064",
+    "structured_data": {
+      "math_score": 74.8,
+      "politics_score": 80.4,
+      "login_count": 27.0,
+      "video_completion_rate": 0.75
+    },
+    "unstructured_texts": [
+      "这学期的水课有哪些推荐",
+      "学校食堂哪家最好吃",
+      "学生会竞选经验分享",
+      "恋爱区求助帖",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240065",
+    "structured_data": {
+      "math_score": 77.4,
+      "politics_score": 71.3,
+      "login_count": 24.0,
+      "video_completion_rate": 0.72
+    },
+    "unstructured_texts": [
+      "晚上宿舍开黑有人吗",
+      "最新出的游戏大作评测",
+      "学生会竞选经验分享",
+      "学校食堂哪家最好吃",
+      "这学期的水课有哪些推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240066",
+    "structured_data": {
+      "math_score": 70.8,
+      "politics_score": 77.7,
+      "login_count": 19.0,
+      "video_completion_rate": 0.75
+    },
+    "unstructured_texts": [
+      "晚上宿舍开黑有人吗",
+      "周末求推荐校园周边的剧本杀",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240067",
+    "structured_data": {
+      "math_score": 60.3,
+      "politics_score": 69.7,
+      "login_count": 14.0,
+      "video_completion_rate": 0.28
+    },
+    "unstructured_texts": [
+      "感觉自己什么都做不好",
+      "就业迷茫期如何度过",
+      "不想上课只想躺平",
+      "期末考试挂科了会怎样",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240068",
+    "structured_data": {
+      "math_score": 67.0,
+      "politics_score": 55.4,
+      "login_count": 11.0,
+      "video_completion_rate": 0.22
+    },
+    "unstructured_texts": [
+      "期末考试挂科了会怎样",
+      "就业迷茫期如何度过",
+      "不想上课只想躺平",
+      "感觉自己什么都做不好",
+      "考研压力太大崩溃了"
+    ]
+  },
+  {
+    "student_id": "STU_20240069",
+    "structured_data": {
+      "math_score": 81.1,
+      "politics_score": 70.9,
+      "login_count": 28.0,
+      "video_completion_rate": 0.69
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "学校食堂哪家最好吃",
+      "学生会竞选经验分享"
+    ]
+  },
+  {
+    "student_id": "STU_20240070",
+    "structured_data": {
+      "math_score": 61.0,
+      "politics_score": 50.7,
+      "login_count": 6.0,
+      "video_completion_rate": 0.37
+    },
+    "unstructured_texts": [
+      "考研数学复习毫无头绪怎么办",
+      "熬夜脱发严重怎么恢复",
+      "感觉自己什么都做不好",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240071",
+    "structured_data": {
+      "math_score": 87.0,
+      "politics_score": 95.6,
+      "login_count": 48.0,
+      "video_completion_rate": 0.98
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "中国人工智能发展史太震撼了",
+      "深度学习论文推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240072",
+    "structured_data": {
+      "math_score": 97.0,
+      "politics_score": 81.3,
+      "login_count": 40.0,
+      "video_completion_rate": 0.95
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "实验室科研项目推进计划",
+      "深度学习论文推荐",
+      "大国重器纪录片观后感"
+    ]
+  },
+  {
+    "student_id": "STU_20240073",
+    "structured_data": {
+      "math_score": 51.5,
+      "politics_score": 63.2,
+      "login_count": 7.0,
+      "video_completion_rate": 0.47
+    },
+    "unstructured_texts": [
+      "不想上课只想躺平",
+      "熬夜脱发严重怎么恢复",
+      "考研压力太大崩溃了",
+      "大学毕业找不到工作有多难"
+    ]
+  },
+  {
+    "student_id": "STU_20240074",
+    "structured_data": {
+      "math_score": 81.9,
+      "politics_score": 83.7,
+      "login_count": 36.0,
+      "video_completion_rate": 0.83
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "大国重器纪录片观后感",
+      "深度学习论文推荐",
+      "中国人工智能发展史太震撼了",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240075",
+    "structured_data": {
+      "math_score": 99.2,
+      "politics_score": 91.0,
+      "login_count": 48.0,
+      "video_completion_rate": 0.83
+    },
+    "unstructured_texts": [
+      "强国科技与航天工程",
+      "实验室科研项目推进计划",
+      "中国人工智能发展史太震撼了",
+      "如何评价最新的大语言模型",
+      "考研高数复习指南"
+    ]
+  },
+  {
+    "student_id": "STU_20240076",
+    "structured_data": {
+      "math_score": 81.5,
+      "politics_score": 80.9,
+      "login_count": 24.0,
+      "video_completion_rate": 0.63
+    },
+    "unstructured_texts": [
+      "学校食堂哪家最好吃",
+      "校园歌手大赛报名入口",
+      "晚上宿舍开黑有人吗"
+    ]
+  },
+  {
+    "student_id": "STU_20240077",
+    "structured_data": {
+      "math_score": 61.8,
+      "politics_score": 65.9,
+      "login_count": 13.0,
+      "video_completion_rate": 0.32
+    },
+    "unstructured_texts": [
+      "熬夜脱发严重怎么恢复",
+      "就业迷茫期如何度过",
+      "考研压力太大崩溃了",
+      "感觉自己什么都做不好"
+    ]
+  },
+  {
+    "student_id": "STU_20240078",
+    "structured_data": {
+      "math_score": 77.6,
+      "politics_score": 73.6,
+      "login_count": 15.0,
+      "video_completion_rate": 0.53
+    },
+    "unstructured_texts": [
+      "最新出的游戏大作评测",
+      "学校食堂哪家最好吃",
+      "恋爱区求助帖",
+      "这学期的水课有哪些推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240079",
+    "structured_data": {
+      "math_score": 83.8,
+      "politics_score": 71.7,
+      "login_count": 29.0,
+      "video_completion_rate": 0.6
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "学校食堂哪家最好吃",
+      "晚上宿舍开黑有人吗",
+      "最新出的游戏大作评测",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240080",
+    "structured_data": {
+      "math_score": 73.6,
+      "politics_score": 71.5,
+      "login_count": 17.0,
+      "video_completion_rate": 0.69
+    },
+    "unstructured_texts": [
+      "这学期的水课有哪些推荐",
+      "学校食堂哪家最好吃",
+      "校园歌手大赛报名入口",
+      "晚上宿舍开黑有人吗"
+    ]
+  },
+  {
+    "student_id": "STU_20240081",
+    "structured_data": {
+      "math_score": 52.0,
+      "politics_score": 53.5,
+      "login_count": 14.0,
+      "video_completion_rate": 0.44
+    },
+    "unstructured_texts": [
+      "考研数学复习毫无头绪怎么办",
+      "大学毕业找不到工作有多难",
+      "就业迷茫期如何度过",
+      "熬夜脱发严重怎么恢复"
+    ]
+  },
+  {
+    "student_id": "STU_20240082",
+    "structured_data": {
+      "math_score": 72.3,
+      "politics_score": 73.7,
+      "login_count": 15.0,
+      "video_completion_rate": 0.71
+    },
+    "unstructured_texts": [
+      "学生会竞选经验分享",
+      "周末求推荐校园周边的剧本杀",
+      "学校食堂哪家最好吃",
+      "这学期的水课有哪些推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240083",
+    "structured_data": {
+      "math_score": 78.2,
+      "politics_score": 81.7,
+      "login_count": 17.0,
+      "video_completion_rate": 0.6
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "周末求推荐校园周边的剧本杀",
+      "这学期的水课有哪些推荐",
+      "最新出的游戏大作评测",
+      "学生会竞选经验分享"
+    ]
+  },
+  {
+    "student_id": "STU_20240084",
+    "structured_data": {
+      "math_score": 70.7,
+      "politics_score": 77.5,
+      "login_count": 20.0,
+      "video_completion_rate": 0.6
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "学校食堂哪家最好吃",
+      "最新出的游戏大作评测"
+    ]
+  },
+  {
+    "student_id": "STU_20240085",
+    "structured_data": {
+      "math_score": 72.7,
+      "politics_score": 81.7,
+      "login_count": 27.0,
+      "video_completion_rate": 0.73
+    },
+    "unstructured_texts": [
+      "最新出的游戏大作评测",
+      "学生会竞选经验分享",
+      "恋爱区求助帖",
+      "晚上宿舍开黑有人吗",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240086",
+    "structured_data": {
+      "math_score": 77.2,
+      "politics_score": 76.2,
+      "login_count": 22.0,
+      "video_completion_rate": 0.66
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "校园歌手大赛报名入口",
+      "学生会竞选经验分享"
+    ]
+  },
+  {
+    "student_id": "STU_20240087",
+    "structured_data": {
+      "math_score": 56.4,
+      "politics_score": 68.8,
+      "login_count": 10.0,
+      "video_completion_rate": 0.5
+    },
+    "unstructured_texts": [
+      "就业迷茫期如何度过",
+      "大学毕业找不到工作有多难",
+      "考研数学复习毫无头绪怎么办",
+      "不想上课只想躺平"
+    ]
+  },
+  {
+    "student_id": "STU_20240088",
+    "structured_data": {
+      "math_score": 60.6,
+      "politics_score": 68.8,
+      "login_count": 10.0,
+      "video_completion_rate": 0.46
+    },
+    "unstructured_texts": [
+      "熬夜脱发严重怎么恢复",
+      "感觉自己什么都做不好",
+      "大学毕业找不到工作有多难",
+      "期末考试挂科了会怎样"
+    ]
+  },
+  {
+    "student_id": "STU_20240089",
+    "structured_data": {
+      "math_score": 67.3,
+      "politics_score": 57.6,
+      "login_count": 11.0,
+      "video_completion_rate": 0.23
+    },
+    "unstructured_texts": [
+      "感觉自己什么都做不好",
+      "考研数学复习毫无头绪怎么办",
+      "就业迷茫期如何度过",
+      "期末考试挂科了会怎样"
+    ]
+  },
+  {
+    "student_id": "STU_20240090",
+    "structured_data": {
+      "math_score": 55.5,
+      "politics_score": 63.2,
+      "login_count": 7.0,
+      "video_completion_rate": 0.26
+    },
+    "unstructured_texts": [
+      "感觉自己什么都做不好",
+      "大学毕业找不到工作有多难",
+      "期末考试挂科了会怎样",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240091",
+    "structured_data": {
+      "math_score": 86.4,
+      "politics_score": 92.9,
+      "login_count": 39.0,
+      "video_completion_rate": 0.85
+    },
+    "unstructured_texts": [
+      "大国重器纪录片观后感",
+      "深度学习论文推荐",
+      "实验室科研项目推进计划",
+      "如何评价最新的大语言模型",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240092",
+    "structured_data": {
+      "math_score": 84.1,
+      "politics_score": 75.5,
+      "login_count": 22.0,
+      "video_completion_rate": 0.64
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "学生会竞选经验分享",
+      "校园歌手大赛报名入口",
+      "恋爱区求助帖",
+      "最新出的游戏大作评测"
+    ]
+  },
+  {
+    "student_id": "STU_20240093",
+    "structured_data": {
+      "math_score": 61.4,
+      "politics_score": 56.6,
+      "login_count": 13.0,
+      "video_completion_rate": 0.24
+    },
+    "unstructured_texts": [
+      "考研压力太大崩溃了",
+      "不想上课只想躺平",
+      "感觉自己什么都做不好"
+    ]
+  },
+  {
+    "student_id": "STU_20240094",
+    "structured_data": {
+      "math_score": 58.5,
+      "politics_score": 55.3,
+      "login_count": 12.0,
+      "video_completion_rate": 0.26
+    },
+    "unstructured_texts": [
+      "熬夜脱发严重怎么恢复",
+      "不想上课只想躺平",
+      "期末考试挂科了会怎样"
+    ]
+  },
+  {
+    "student_id": "STU_20240095",
+    "structured_data": {
+      "math_score": 81.9,
+      "politics_score": 80.1,
+      "login_count": 21.0,
+      "video_completion_rate": 0.56
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "晚上宿舍开黑有人吗",
+      "学校食堂哪家最好吃"
+    ]
+  },
+  {
+    "student_id": "STU_20240096",
+    "structured_data": {
+      "math_score": 85.8,
+      "politics_score": 93.3,
+      "login_count": 45.0,
+      "video_completion_rate": 0.81
+    },
+    "unstructured_texts": [
+      "实验室科研项目推进计划",
+      "考研高数复习指南",
+      "深度学习论文推荐",
+      "强国科技与航天工程"
+    ]
+  },
+  {
+    "student_id": "STU_20240097",
+    "structured_data": {
+      "math_score": 74.2,
+      "politics_score": 73.8,
+      "login_count": 29.0,
+      "video_completion_rate": 0.67
+    },
+    "unstructured_texts": [
+      "晚上宿舍开黑有人吗",
+      "周末求推荐校园周边的剧本杀",
+      "学生会竞选经验分享"
+    ]
+  },
+  {
+    "student_id": "STU_20240098",
+    "structured_data": {
+      "math_score": 58.9,
+      "politics_score": 59.9,
+      "login_count": 11.0,
+      "video_completion_rate": 0.49
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "考研数学复习毫无头绪怎么办",
+      "感觉自己什么都做不好",
+      "不想上课只想躺平"
+    ]
+  },
+  {
+    "student_id": "STU_20240099",
+    "structured_data": {
+      "math_score": 69.9,
+      "politics_score": 62.0,
+      "login_count": 8.0,
+      "video_completion_rate": 0.31
+    },
+    "unstructured_texts": [
+      "期末考试挂科了会怎样",
+      "感觉自己什么都做不好",
+      "大学毕业找不到工作有多难",
+      "考研压力太大崩溃了"
+    ]
+  },
+  {
+    "student_id": "STU_20240100",
+    "structured_data": {
+      "math_score": 75.1,
+      "politics_score": 73.9,
+      "login_count": 16.0,
+      "video_completion_rate": 0.72
+    },
+    "unstructured_texts": [
+      "校园歌手大赛报名入口",
+      "恋爱区求助帖",
+      "最新出的游戏大作评测",
+      "周末求推荐校园周边的剧本杀"
+    ]
+  },
+  {
+    "student_id": "STU_20240101",
+    "structured_data": {
+      "math_score": 64.2,
+      "politics_score": 66.6,
+      "login_count": 13.0,
+      "video_completion_rate": 0.45
+    },
+    "unstructured_texts": [
+      "感觉自己什么都做不好",
+      "期末考试挂科了会怎样",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240102",
+    "structured_data": {
+      "math_score": 93.9,
+      "politics_score": 82.5,
+      "login_count": 42.0,
+      "video_completion_rate": 0.87
+    },
+    "unstructured_texts": [
+      "大国重器纪录片观后感",
+      "考研高数复习指南",
+      "实验室科研项目推进计划"
+    ]
+  },
+  {
+    "student_id": "STU_20240103",
+    "structured_data": {
+      "math_score": 87.8,
+      "politics_score": 91.8,
+      "login_count": 44.0,
+      "video_completion_rate": 0.82
+    },
+    "unstructured_texts": [
+      "国家奖学金申请条件",
+      "实验室科研项目推进计划",
+      "中国人工智能发展史太震撼了"
+    ]
+  },
+  {
+    "student_id": "STU_20240104",
+    "structured_data": {
+      "math_score": 59.3,
+      "politics_score": 59.3,
+      "login_count": 10.0,
+      "video_completion_rate": 0.25
+    },
+    "unstructured_texts": [
+      "考研数学复习毫无头绪怎么办",
+      "期末考试挂科了会怎样",
+      "感觉自己什么都做不好",
+      "大学毕业找不到工作有多难",
+      "熬夜脱发严重怎么恢复"
+    ]
+  },
+  {
+    "student_id": "STU_20240105",
+    "structured_data": {
+      "math_score": 75.4,
+      "politics_score": 79.6,
+      "login_count": 29.0,
+      "video_completion_rate": 0.78
+    },
+    "unstructured_texts": [
+      "学生会竞选经验分享",
+      "周末求推荐校园周边的剧本杀",
+      "学校食堂哪家最好吃",
+      "晚上宿舍开黑有人吗",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240106",
+    "structured_data": {
+      "math_score": 67.7,
+      "politics_score": 62.6,
+      "login_count": 5.0,
+      "video_completion_rate": 0.23
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "熬夜脱发严重怎么恢复",
+      "考研数学复习毫无头绪怎么办",
+      "考研压力太大崩溃了",
+      "不想上课只想躺平"
+    ]
+  },
+  {
+    "student_id": "STU_20240107",
+    "structured_data": {
+      "math_score": 69.4,
+      "politics_score": 50.8,
+      "login_count": 14.0,
+      "video_completion_rate": 0.4
+    },
+    "unstructured_texts": [
+      "就业迷茫期如何度过",
+      "考研压力太大崩溃了",
+      "大学毕业找不到工作有多难",
+      "期末考试挂科了会怎样"
+    ]
+  },
+  {
+    "student_id": "STU_20240108",
+    "structured_data": {
+      "math_score": 76.8,
+      "politics_score": 77.0,
+      "login_count": 23.0,
+      "video_completion_rate": 0.72
+    },
+    "unstructured_texts": [
+      "这学期的水课有哪些推荐",
+      "晚上宿舍开黑有人吗",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240109",
+    "structured_data": {
+      "math_score": 75.0,
+      "politics_score": 75.9,
+      "login_count": 28.0,
+      "video_completion_rate": 0.66
+    },
+    "unstructured_texts": [
+      "校园歌手大赛报名入口",
+      "这学期的水课有哪些推荐",
+      "晚上宿舍开黑有人吗",
+      "学校食堂哪家最好吃",
+      "学生会竞选经验分享"
+    ]
+  },
+  {
+    "student_id": "STU_20240110",
+    "structured_data": {
+      "math_score": 89.5,
+      "politics_score": 87.5,
+      "login_count": 40.0,
+      "video_completion_rate": 0.96
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "深度学习论文推荐",
+      "强国科技与航天工程"
+    ]
+  },
+  {
+    "student_id": "STU_20240111",
+    "structured_data": {
+      "math_score": 77.6,
+      "politics_score": 73.4,
+      "login_count": 27.0,
+      "video_completion_rate": 0.6
+    },
+    "unstructured_texts": [
+      "最新出的游戏大作评测",
+      "校园歌手大赛报名入口",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240112",
+    "structured_data": {
+      "math_score": 70.2,
+      "politics_score": 79.4,
+      "login_count": 26.0,
+      "video_completion_rate": 0.62
+    },
+    "unstructured_texts": [
+      "学生会竞选经验分享",
+      "这学期的水课有哪些推荐",
+      "周末求推荐校园周边的剧本杀",
+      "最新出的游戏大作评测"
+    ]
+  },
+  {
+    "student_id": "STU_20240113",
+    "structured_data": {
+      "math_score": 83.6,
+      "politics_score": 81.2,
+      "login_count": 19.0,
+      "video_completion_rate": 0.74
+    },
+    "unstructured_texts": [
+      "学校食堂哪家最好吃",
+      "这学期的水课有哪些推荐",
+      "学生会竞选经验分享",
+      "晚上宿舍开黑有人吗"
+    ]
+  },
+  {
+    "student_id": "STU_20240114",
+    "structured_data": {
+      "math_score": 82.7,
+      "politics_score": 74.6,
+      "login_count": 27.0,
+      "video_completion_rate": 0.62
+    },
+    "unstructured_texts": [
+      "最新出的游戏大作评测",
+      "周末求推荐校园周边的剧本杀",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240115",
+    "structured_data": {
+      "math_score": 52.3,
+      "politics_score": 58.8,
+      "login_count": 15.0,
+      "video_completion_rate": 0.48
+    },
+    "unstructured_texts": [
+      "不想上课只想躺平",
+      "期末考试挂科了会怎样",
+      "熬夜脱发严重怎么恢复",
+      "考研压力太大崩溃了"
+    ]
+  },
+  {
+    "student_id": "STU_20240116",
+    "structured_data": {
+      "math_score": 93.2,
+      "politics_score": 97.7,
+      "login_count": 39.0,
+      "video_completion_rate": 0.93
+    },
+    "unstructured_texts": [
+      "深度学习论文推荐",
+      "国家奖学金申请条件",
+      "中国人工智能发展史太震撼了",
+      "实验室科研项目推进计划"
+    ]
+  },
+  {
+    "student_id": "STU_20240117",
+    "structured_data": {
+      "math_score": 97.1,
+      "politics_score": 82.0,
+      "login_count": 43.0,
+      "video_completion_rate": 0.89
+    },
+    "unstructured_texts": [
+      "强国科技与航天工程",
+      "实验室科研项目推进计划",
+      "如何评价最新的大语言模型",
+      "考研高数复习指南"
+    ]
+  },
+  {
+    "student_id": "STU_20240118",
+    "structured_data": {
+      "math_score": 79.7,
+      "politics_score": 82.5,
+      "login_count": 16.0,
+      "video_completion_rate": 0.79
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "学生会竞选经验分享",
+      "恋爱区求助帖",
+      "这学期的水课有哪些推荐",
+      "学校食堂哪家最好吃"
+    ]
+  },
+  {
+    "student_id": "STU_20240119",
+    "structured_data": {
+      "math_score": 94.4,
+      "politics_score": 96.8,
+      "login_count": 48.0,
+      "video_completion_rate": 0.95
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "强国科技与航天工程",
+      "中国人工智能发展史太震撼了"
+    ]
+  },
+  {
+    "student_id": "STU_20240120",
+    "structured_data": {
+      "math_score": 80.5,
+      "politics_score": 88.0,
+      "login_count": 33.0,
+      "video_completion_rate": 0.99
+    },
+    "unstructured_texts": [
+      "考研高数复习指南",
+      "中国人工智能发展史太震撼了",
+      "深度学习论文推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240121",
+    "structured_data": {
+      "math_score": 84.7,
+      "politics_score": 89.1,
+      "login_count": 43.0,
+      "video_completion_rate": 0.93
+    },
+    "unstructured_texts": [
+      "国家奖学金申请条件",
+      "深度学习论文推荐",
+      "考研高数复习指南"
+    ]
+  },
+  {
+    "student_id": "STU_20240122",
+    "structured_data": {
+      "math_score": 76.1,
+      "politics_score": 75.1,
+      "login_count": 24.0,
+      "video_completion_rate": 0.56
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "晚上宿舍开黑有人吗",
+      "学生会竞选经验分享",
+      "最新出的游戏大作评测",
+      "这学期的水课有哪些推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240123",
+    "structured_data": {
+      "math_score": 93.0,
+      "politics_score": 89.6,
+      "login_count": 45.0,
+      "video_completion_rate": 0.8
+    },
+    "unstructured_texts": [
+      "国家奖学金申请条件",
+      "考研高数复习指南",
+      "大国重器纪录片观后感",
+      "深度学习论文推荐",
+      "实验室科研项目推进计划"
+    ]
+  },
+  {
+    "student_id": "STU_20240124",
+    "structured_data": {
+      "math_score": 95.4,
+      "politics_score": 99.0,
+      "login_count": 39.0,
+      "video_completion_rate": 0.93
+    },
+    "unstructured_texts": [
+      "中国人工智能发展史太震撼了",
+      "如何评价最新的大语言模型",
+      "实验室科研项目推进计划"
+    ]
+  },
+  {
+    "student_id": "STU_20240125",
+    "structured_data": {
+      "math_score": 69.3,
+      "politics_score": 61.5,
+      "login_count": 8.0,
+      "video_completion_rate": 0.45
+    },
+    "unstructured_texts": [
+      "感觉自己什么都做不好",
+      "就业迷茫期如何度过",
+      "考研数学复习毫无头绪怎么办",
+      "期末考试挂科了会怎样",
+      "考研压力太大崩溃了"
+    ]
+  },
+  {
+    "student_id": "STU_20240126",
+    "structured_data": {
+      "math_score": 88.1,
+      "politics_score": 81.8,
+      "login_count": 30.0,
+      "video_completion_rate": 0.85
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "考研高数复习指南",
+      "中国人工智能发展史太震撼了",
+      "国家奖学金申请条件",
+      "强国科技与航天工程"
+    ]
+  },
+  {
+    "student_id": "STU_20240127",
+    "structured_data": {
+      "math_score": 99.8,
+      "politics_score": 94.5,
+      "login_count": 41.0,
+      "video_completion_rate": 0.99
+    },
+    "unstructured_texts": [
+      "国家奖学金申请条件",
+      "实验室科研项目推进计划",
+      "如何评价最新的大语言模型"
+    ]
+  },
+  {
+    "student_id": "STU_20240128",
+    "structured_data": {
+      "math_score": 56.5,
+      "politics_score": 55.8,
+      "login_count": 13.0,
+      "video_completion_rate": 0.41
+    },
+    "unstructured_texts": [
+      "感觉自己什么都做不好",
+      "考研数学复习毫无头绪怎么办",
+      "不想上课只想躺平",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240129",
+    "structured_data": {
+      "math_score": 75.7,
+      "politics_score": 84.7,
+      "login_count": 30.0,
+      "video_completion_rate": 0.54
+    },
+    "unstructured_texts": [
+      "学生会竞选经验分享",
+      "校园歌手大赛报名入口",
+      "恋爱区求助帖",
+      "学校食堂哪家最好吃"
+    ]
+  },
+  {
+    "student_id": "STU_20240130",
+    "structured_data": {
+      "math_score": 69.4,
+      "politics_score": 50.7,
+      "login_count": 8.0,
+      "video_completion_rate": 0.2
+    },
+    "unstructured_texts": [
+      "感觉自己什么都做不好",
+      "考研数学复习毫无头绪怎么办",
+      "大学毕业找不到工作有多难",
+      "不想上课只想躺平"
+    ]
+  },
+  {
+    "student_id": "STU_20240131",
+    "structured_data": {
+      "math_score": 63.6,
+      "politics_score": 54.7,
+      "login_count": 14.0,
+      "video_completion_rate": 0.32
+    },
+    "unstructured_texts": [
+      "感觉自己什么都做不好",
+      "不想上课只想躺平",
+      "期末考试挂科了会怎样",
+      "熬夜脱发严重怎么恢复",
+      "大学毕业找不到工作有多难"
+    ]
+  },
+  {
+    "student_id": "STU_20240132",
+    "structured_data": {
+      "math_score": 69.9,
+      "politics_score": 51.4,
+      "login_count": 9.0,
+      "video_completion_rate": 0.37
+    },
+    "unstructured_texts": [
+      "期末考试挂科了会怎样",
+      "感觉自己什么都做不好",
+      "大学毕业找不到工作有多难",
+      "不想上课只想躺平",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240133",
+    "structured_data": {
+      "math_score": 58.9,
+      "politics_score": 50.0,
+      "login_count": 11.0,
+      "video_completion_rate": 0.36
+    },
+    "unstructured_texts": [
+      "考研压力太大崩溃了",
+      "考研数学复习毫无头绪怎么办",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240134",
+    "structured_data": {
+      "math_score": 61.2,
+      "politics_score": 61.1,
+      "login_count": 11.0,
+      "video_completion_rate": 0.46
+    },
+    "unstructured_texts": [
+      "不想上课只想躺平",
+      "大学毕业找不到工作有多难",
+      "期末考试挂科了会怎样",
+      "考研数学复习毫无头绪怎么办",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240135",
+    "structured_data": {
+      "math_score": 76.7,
+      "politics_score": 72.1,
+      "login_count": 27.0,
+      "video_completion_rate": 0.77
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "这学期的水课有哪些推荐",
+      "恋爱区求助帖",
+      "学校食堂哪家最好吃"
+    ]
+  },
+  {
+    "student_id": "STU_20240136",
+    "structured_data": {
+      "math_score": 60.1,
+      "politics_score": 50.8,
+      "login_count": 9.0,
+      "video_completion_rate": 0.32
+    },
+    "unstructured_texts": [
+      "期末考试挂科了会怎样",
+      "就业迷茫期如何度过",
+      "感觉自己什么都做不好",
+      "考研压力太大崩溃了",
+      "不想上课只想躺平"
+    ]
+  },
+  {
+    "student_id": "STU_20240137",
+    "structured_data": {
+      "math_score": 86.4,
+      "politics_score": 92.0,
+      "login_count": 38.0,
+      "video_completion_rate": 0.84
+    },
+    "unstructured_texts": [
+      "大国重器纪录片观后感",
+      "深度学习论文推荐",
+      "考研高数复习指南",
+      "中国人工智能发展史太震撼了"
+    ]
+  },
+  {
+    "student_id": "STU_20240138",
+    "structured_data": {
+      "math_score": 60.0,
+      "politics_score": 67.8,
+      "login_count": 9.0,
+      "video_completion_rate": 0.28
+    },
+    "unstructured_texts": [
+      "就业迷茫期如何度过",
+      "大学毕业找不到工作有多难",
+      "考研压力太大崩溃了",
+      "期末考试挂科了会怎样"
+    ]
+  },
+  {
+    "student_id": "STU_20240139",
+    "structured_data": {
+      "math_score": 51.0,
+      "politics_score": 60.6,
+      "login_count": 11.0,
+      "video_completion_rate": 0.36
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "感觉自己什么都做不好",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240140",
+    "structured_data": {
+      "math_score": 85.4,
+      "politics_score": 98.7,
+      "login_count": 37.0,
+      "video_completion_rate": 0.8
+    },
+    "unstructured_texts": [
+      "强国科技与航天工程",
+      "实验室科研项目推进计划",
+      "大国重器纪录片观后感"
+    ]
+  },
+  {
+    "student_id": "STU_20240141",
+    "structured_data": {
+      "math_score": 54.4,
+      "politics_score": 61.1,
+      "login_count": 6.0,
+      "video_completion_rate": 0.48
+    },
+    "unstructured_texts": [
+      "熬夜脱发严重怎么恢复",
+      "就业迷茫期如何度过",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240142",
+    "structured_data": {
+      "math_score": 72.1,
+      "politics_score": 81.9,
+      "login_count": 19.0,
+      "video_completion_rate": 0.65
+    },
+    "unstructured_texts": [
+      "学生会竞选经验分享",
+      "这学期的水课有哪些推荐",
+      "恋爱区求助帖",
+      "周末求推荐校园周边的剧本杀"
+    ]
+  },
+  {
+    "student_id": "STU_20240143",
+    "structured_data": {
+      "math_score": 93.5,
+      "politics_score": 88.1,
+      "login_count": 35.0,
+      "video_completion_rate": 0.95
+    },
+    "unstructured_texts": [
+      "深度学习论文推荐",
+      "实验室科研项目推进计划",
+      "如何评价最新的大语言模型"
+    ]
+  },
+  {
+    "student_id": "STU_20240144",
+    "structured_data": {
+      "math_score": 94.3,
+      "politics_score": 89.4,
+      "login_count": 39.0,
+      "video_completion_rate": 0.81
+    },
+    "unstructured_texts": [
+      "国家奖学金申请条件",
+      "中国人工智能发展史太震撼了",
+      "实验室科研项目推进计划",
+      "如何评价最新的大语言模型",
+      "强国科技与航天工程"
+    ]
+  },
+  {
+    "student_id": "STU_20240145",
+    "structured_data": {
+      "math_score": 78.6,
+      "politics_score": 74.2,
+      "login_count": 25.0,
+      "video_completion_rate": 0.73
+    },
+    "unstructured_texts": [
+      "学校食堂哪家最好吃",
+      "这学期的水课有哪些推荐",
+      "晚上宿舍开黑有人吗"
+    ]
+  },
+  {
+    "student_id": "STU_20240146",
+    "structured_data": {
+      "math_score": 54.0,
+      "politics_score": 56.0,
+      "login_count": 13.0,
+      "video_completion_rate": 0.28
+    },
+    "unstructured_texts": [
+      "就业迷茫期如何度过",
+      "感觉自己什么都做不好",
+      "考研压力太大崩溃了"
+    ]
+  },
+  {
+    "student_id": "STU_20240147",
+    "structured_data": {
+      "math_score": 71.7,
+      "politics_score": 83.9,
+      "login_count": 18.0,
+      "video_completion_rate": 0.73
+    },
+    "unstructured_texts": [
+      "校园歌手大赛报名入口",
+      "学校食堂哪家最好吃",
+      "最新出的游戏大作评测"
+    ]
+  },
+  {
+    "student_id": "STU_20240148",
+    "structured_data": {
+      "math_score": 82.9,
+      "politics_score": 76.0,
+      "login_count": 23.0,
+      "video_completion_rate": 0.53
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "学校食堂哪家最好吃",
+      "校园歌手大赛报名入口",
+      "最新出的游戏大作评测"
+    ]
+  },
+  {
+    "student_id": "STU_20240149",
+    "structured_data": {
+      "math_score": 60.6,
+      "politics_score": 53.3,
+      "login_count": 10.0,
+      "video_completion_rate": 0.47
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "期末考试挂科了会怎样",
+      "熬夜脱发严重怎么恢复",
+      "就业迷茫期如何度过",
+      "感觉自己什么都做不好"
+    ]
+  },
+  {
+    "student_id": "STU_20240150",
+    "structured_data": {
+      "math_score": 63.4,
+      "politics_score": 51.0,
+      "login_count": 8.0,
+      "video_completion_rate": 0.41
+    },
+    "unstructured_texts": [
+      "考研数学复习毫无头绪怎么办",
+      "大学毕业找不到工作有多难",
+      "熬夜脱发严重怎么恢复",
+      "不想上课只想躺平",
+      "感觉自己什么都做不好"
+    ]
+  },
+  {
+    "student_id": "STU_20240151",
+    "structured_data": {
+      "math_score": 88.3,
+      "politics_score": 89.4,
+      "login_count": 32.0,
+      "video_completion_rate": 0.84
+    },
+    "unstructured_texts": [
+      "实验室科研项目推进计划",
+      "大国重器纪录片观后感",
+      "强国科技与航天工程",
+      "深度学习论文推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240152",
+    "structured_data": {
+      "math_score": 83.2,
+      "politics_score": 84.8,
+      "login_count": 44.0,
+      "video_completion_rate": 0.97
+    },
+    "unstructured_texts": [
+      "考研高数复习指南",
+      "实验室科研项目推进计划",
+      "中国人工智能发展史太震撼了",
+      "强国科技与航天工程"
+    ]
+  },
+  {
+    "student_id": "STU_20240153",
+    "structured_data": {
+      "math_score": 69.3,
+      "politics_score": 60.4,
+      "login_count": 10.0,
+      "video_completion_rate": 0.43
+    },
+    "unstructured_texts": [
+      "熬夜脱发严重怎么恢复",
+      "感觉自己什么都做不好",
+      "考研压力太大崩溃了",
+      "不想上课只想躺平",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240154",
+    "structured_data": {
+      "math_score": 72.5,
+      "politics_score": 78.9,
+      "login_count": 25.0,
+      "video_completion_rate": 0.63
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "校园歌手大赛报名入口",
+      "这学期的水课有哪些推荐",
+      "晚上宿舍开黑有人吗"
+    ]
+  },
+  {
+    "student_id": "STU_20240155",
+    "structured_data": {
+      "math_score": 73.8,
+      "politics_score": 79.5,
+      "login_count": 26.0,
+      "video_completion_rate": 0.69
+    },
+    "unstructured_texts": [
+      "最新出的游戏大作评测",
+      "恋爱区求助帖",
+      "这学期的水课有哪些推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240156",
+    "structured_data": {
+      "math_score": 99.1,
+      "politics_score": 88.2,
+      "login_count": 38.0,
+      "video_completion_rate": 0.89
+    },
+    "unstructured_texts": [
+      "实验室科研项目推进计划",
+      "大国重器纪录片观后感",
+      "强国科技与航天工程",
+      "深度学习论文推荐",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240157",
+    "structured_data": {
+      "math_score": 72.7,
+      "politics_score": 79.6,
+      "login_count": 30.0,
+      "video_completion_rate": 0.57
+    },
+    "unstructured_texts": [
+      "学校食堂哪家最好吃",
+      "周末求推荐校园周边的剧本杀",
+      "恋爱区求助帖",
+      "校园歌手大赛报名入口",
+      "最新出的游戏大作评测"
+    ]
+  },
+  {
+    "student_id": "STU_20240158",
+    "structured_data": {
+      "math_score": 75.3,
+      "politics_score": 74.0,
+      "login_count": 27.0,
+      "video_completion_rate": 0.65
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "校园歌手大赛报名入口",
+      "这学期的水课有哪些推荐",
+      "学校食堂哪家最好吃"
+    ]
+  },
+  {
+    "student_id": "STU_20240159",
+    "structured_data": {
+      "math_score": 70.8,
+      "politics_score": 70.4,
+      "login_count": 24.0,
+      "video_completion_rate": 0.61
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "学校食堂哪家最好吃",
+      "学生会竞选经验分享",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240160",
+    "structured_data": {
+      "math_score": 78.3,
+      "politics_score": 78.4,
+      "login_count": 20.0,
+      "video_completion_rate": 0.59
+    },
+    "unstructured_texts": [
+      "晚上宿舍开黑有人吗",
+      "学生会竞选经验分享",
+      "最新出的游戏大作评测",
+      "学校食堂哪家最好吃",
+      "周末求推荐校园周边的剧本杀"
+    ]
+  },
+  {
+    "student_id": "STU_20240161",
+    "structured_data": {
+      "math_score": 83.5,
+      "politics_score": 82.9,
+      "login_count": 26.0,
+      "video_completion_rate": 0.72
+    },
+    "unstructured_texts": [
+      "校园歌手大赛报名入口",
+      "周末求推荐校园周边的剧本杀",
+      "学校食堂哪家最好吃",
+      "晚上宿舍开黑有人吗",
+      "学生会竞选经验分享"
+    ]
+  },
+  {
+    "student_id": "STU_20240162",
+    "structured_data": {
+      "math_score": 93.9,
+      "politics_score": 86.8,
+      "login_count": 42.0,
+      "video_completion_rate": 0.83
+    },
+    "unstructured_texts": [
+      "深度学习论文推荐",
+      "如何评价最新的大语言模型",
+      "实验室科研项目推进计划"
+    ]
+  },
+  {
+    "student_id": "STU_20240163",
+    "structured_data": {
+      "math_score": 77.2,
+      "politics_score": 82.2,
+      "login_count": 25.0,
+      "video_completion_rate": 0.53
+    },
+    "unstructured_texts": [
+      "最新出的游戏大作评测",
+      "这学期的水课有哪些推荐",
+      "学生会竞选经验分享",
+      "晚上宿舍开黑有人吗",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240164",
+    "structured_data": {
+      "math_score": 54.6,
+      "politics_score": 65.4,
+      "login_count": 10.0,
+      "video_completion_rate": 0.49
+    },
+    "unstructured_texts": [
+      "考研压力太大崩溃了",
+      "就业迷茫期如何度过",
+      "期末考试挂科了会怎样",
+      "感觉自己什么都做不好"
+    ]
+  },
+  {
+    "student_id": "STU_20240165",
+    "structured_data": {
+      "math_score": 82.3,
+      "politics_score": 82.6,
+      "login_count": 36.0,
+      "video_completion_rate": 0.91
+    },
+    "unstructured_texts": [
+      "考研高数复习指南",
+      "强国科技与航天工程",
+      "深度学习论文推荐",
+      "实验室科研项目推进计划"
+    ]
+  },
+  {
+    "student_id": "STU_20240166",
+    "structured_data": {
+      "math_score": 64.6,
+      "politics_score": 51.5,
+      "login_count": 6.0,
+      "video_completion_rate": 0.28
+    },
+    "unstructured_texts": [
+      "期末考试挂科了会怎样",
+      "熬夜脱发严重怎么恢复",
+      "不想上课只想躺平",
+      "感觉自己什么都做不好",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240167",
+    "structured_data": {
+      "math_score": 65.9,
+      "politics_score": 63.9,
+      "login_count": 6.0,
+      "video_completion_rate": 0.27
+    },
+    "unstructured_texts": [
+      "考研数学复习毫无头绪怎么办",
+      "考研压力太大崩溃了",
+      "就业迷茫期如何度过",
+      "感觉自己什么都做不好"
+    ]
+  },
+  {
+    "student_id": "STU_20240168",
+    "structured_data": {
+      "math_score": 63.9,
+      "politics_score": 53.2,
+      "login_count": 13.0,
+      "video_completion_rate": 0.24
+    },
+    "unstructured_texts": [
+      "期末考试挂科了会怎样",
+      "就业迷茫期如何度过",
+      "熬夜脱发严重怎么恢复",
+      "考研数学复习毫无头绪怎么办",
+      "大学毕业找不到工作有多难"
+    ]
+  },
+  {
+    "student_id": "STU_20240169",
+    "structured_data": {
+      "math_score": 97.0,
+      "politics_score": 98.4,
+      "login_count": 50.0,
+      "video_completion_rate": 0.9
+    },
+    "unstructured_texts": [
+      "中国人工智能发展史太震撼了",
+      "深度学习论文推荐",
+      "大国重器纪录片观后感",
+      "实验室科研项目推进计划",
+      "考研高数复习指南"
+    ]
+  },
+  {
+    "student_id": "STU_20240170",
+    "structured_data": {
+      "math_score": 66.4,
+      "politics_score": 58.0,
+      "login_count": 5.0,
+      "video_completion_rate": 0.3
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "就业迷茫期如何度过",
+      "感觉自己什么都做不好",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240171",
+    "structured_data": {
+      "math_score": 94.5,
+      "politics_score": 84.3,
+      "login_count": 38.0,
+      "video_completion_rate": 0.99
+    },
+    "unstructured_texts": [
+      "大国重器纪录片观后感",
+      "深度学习论文推荐",
+      "中国人工智能发展史太震撼了",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240172",
+    "structured_data": {
+      "math_score": 58.7,
+      "politics_score": 69.8,
+      "login_count": 13.0,
+      "video_completion_rate": 0.24
+    },
+    "unstructured_texts": [
+      "不想上课只想躺平",
+      "大学毕业找不到工作有多难",
+      "熬夜脱发严重怎么恢复",
+      "感觉自己什么都做不好",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240173",
+    "structured_data": {
+      "math_score": 97.6,
+      "politics_score": 98.4,
+      "login_count": 30.0,
+      "video_completion_rate": 0.95
+    },
+    "unstructured_texts": [
+      "考研高数复习指南",
+      "国家奖学金申请条件",
+      "深度学习论文推荐",
+      "实验室科研项目推进计划"
+    ]
+  },
+  {
+    "student_id": "STU_20240174",
+    "structured_data": {
+      "math_score": 83.4,
+      "politics_score": 70.9,
+      "login_count": 21.0,
+      "video_completion_rate": 0.76
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "学生会竞选经验分享",
+      "学校食堂哪家最好吃",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240175",
+    "structured_data": {
+      "math_score": 84.9,
+      "politics_score": 79.1,
+      "login_count": 17.0,
+      "video_completion_rate": 0.59
+    },
+    "unstructured_texts": [
+      "学生会竞选经验分享",
+      "恋爱区求助帖",
+      "校园歌手大赛报名入口",
+      "晚上宿舍开黑有人吗",
+      "最新出的游戏大作评测"
+    ]
+  },
+  {
+    "student_id": "STU_20240176",
+    "structured_data": {
+      "math_score": 70.2,
+      "politics_score": 70.7,
+      "login_count": 27.0,
+      "video_completion_rate": 0.65
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "学校食堂哪家最好吃",
+      "周末求推荐校园周边的剧本杀",
+      "学生会竞选经验分享",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240177",
+    "structured_data": {
+      "math_score": 65.2,
+      "politics_score": 54.9,
+      "login_count": 7.0,
+      "video_completion_rate": 0.23
+    },
+    "unstructured_texts": [
+      "不想上课只想躺平",
+      "期末考试挂科了会怎样",
+      "考研压力太大崩溃了",
+      "熬夜脱发严重怎么恢复"
+    ]
+  },
+  {
+    "student_id": "STU_20240178",
+    "structured_data": {
+      "math_score": 73.5,
+      "politics_score": 84.5,
+      "login_count": 29.0,
+      "video_completion_rate": 0.74
+    },
+    "unstructured_texts": [
+      "这学期的水课有哪些推荐",
+      "校园歌手大赛报名入口",
+      "学生会竞选经验分享"
+    ]
+  },
+  {
+    "student_id": "STU_20240179",
+    "structured_data": {
+      "math_score": 76.2,
+      "politics_score": 78.5,
+      "login_count": 21.0,
+      "video_completion_rate": 0.72
+    },
+    "unstructured_texts": [
+      "学生会竞选经验分享",
+      "校园歌手大赛报名入口",
+      "最新出的游戏大作评测",
+      "晚上宿舍开黑有人吗",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240180",
+    "structured_data": {
+      "math_score": 94.9,
+      "politics_score": 86.9,
+      "login_count": 37.0,
+      "video_completion_rate": 0.98
+    },
+    "unstructured_texts": [
+      "大国重器纪录片观后感",
+      "如何评价最新的大语言模型",
+      "考研高数复习指南",
+      "国家奖学金申请条件",
+      "中国人工智能发展史太震撼了"
+    ]
+  },
+  {
+    "student_id": "STU_20240181",
+    "structured_data": {
+      "math_score": 50.3,
+      "politics_score": 54.4,
+      "login_count": 6.0,
+      "video_completion_rate": 0.48
+    },
+    "unstructured_texts": [
+      "考研数学复习毫无头绪怎么办",
+      "期末考试挂科了会怎样",
+      "感觉自己什么都做不好",
+      "不想上课只想躺平"
+    ]
+  },
+  {
+    "student_id": "STU_20240182",
+    "structured_data": {
+      "math_score": 82.8,
+      "politics_score": 79.9,
+      "login_count": 27.0,
+      "video_completion_rate": 0.59
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "这学期的水课有哪些推荐",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240183",
+    "structured_data": {
+      "math_score": 80.3,
+      "politics_score": 92.0,
+      "login_count": 50.0,
+      "video_completion_rate": 0.81
+    },
+    "unstructured_texts": [
+      "实验室科研项目推进计划",
+      "国家奖学金申请条件",
+      "强国科技与航天工程"
+    ]
+  },
+  {
+    "student_id": "STU_20240184",
+    "structured_data": {
+      "math_score": 69.8,
+      "politics_score": 54.0,
+      "login_count": 11.0,
+      "video_completion_rate": 0.46
+    },
+    "unstructured_texts": [
+      "考研数学复习毫无头绪怎么办",
+      "熬夜脱发严重怎么恢复",
+      "大学毕业找不到工作有多难",
+      "就业迷茫期如何度过",
+      "考研压力太大崩溃了"
+    ]
+  },
+  {
+    "student_id": "STU_20240185",
+    "structured_data": {
+      "math_score": 67.0,
+      "politics_score": 54.2,
+      "login_count": 15.0,
+      "video_completion_rate": 0.46
+    },
+    "unstructured_texts": [
+      "就业迷茫期如何度过",
+      "不想上课只想躺平",
+      "考研压力太大崩溃了",
+      "感觉自己什么都做不好"
+    ]
+  },
+  {
+    "student_id": "STU_20240186",
+    "structured_data": {
+      "math_score": 85.6,
+      "politics_score": 89.1,
+      "login_count": 31.0,
+      "video_completion_rate": 0.95
+    },
+    "unstructured_texts": [
+      "国家奖学金申请条件",
+      "考研高数复习指南",
+      "实验室科研项目推进计划",
+      "大国重器纪录片观后感",
+      "如何评价最新的大语言模型"
+    ]
+  },
+  {
+    "student_id": "STU_20240187",
+    "structured_data": {
+      "math_score": 62.4,
+      "politics_score": 57.5,
+      "login_count": 5.0,
+      "video_completion_rate": 0.43
+    },
+    "unstructured_texts": [
+      "熬夜脱发严重怎么恢复",
+      "期末考试挂科了会怎样",
+      "感觉自己什么都做不好",
+      "大学毕业找不到工作有多难"
+    ]
+  },
+  {
+    "student_id": "STU_20240188",
+    "structured_data": {
+      "math_score": 85.1,
+      "politics_score": 86.3,
+      "login_count": 39.0,
+      "video_completion_rate": 0.95
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "考研高数复习指南",
+      "深度学习论文推荐",
+      "中国人工智能发展史太震撼了"
+    ]
+  },
+  {
+    "student_id": "STU_20240189",
+    "structured_data": {
+      "math_score": 82.2,
+      "politics_score": 86.1,
+      "login_count": 48.0,
+      "video_completion_rate": 0.85
+    },
+    "unstructured_texts": [
+      "国家奖学金申请条件",
+      "实验室科研项目推进计划",
+      "考研高数复习指南",
+      "强国科技与航天工程",
+      "大国重器纪录片观后感"
+    ]
+  },
+  {
+    "student_id": "STU_20240190",
+    "structured_data": {
+      "math_score": 63.0,
+      "politics_score": 68.5,
+      "login_count": 8.0,
+      "video_completion_rate": 0.3
+    },
+    "unstructured_texts": [
+      "不想上课只想躺平",
+      "考研数学复习毫无头绪怎么办",
+      "考研压力太大崩溃了",
+      "期末考试挂科了会怎样",
+      "大学毕业找不到工作有多难"
+    ]
+  },
+  {
+    "student_id": "STU_20240191",
+    "structured_data": {
+      "math_score": 67.7,
+      "politics_score": 51.2,
+      "login_count": 6.0,
+      "video_completion_rate": 0.4
+    },
+    "unstructured_texts": [
+      "不想上课只想躺平",
+      "熬夜脱发严重怎么恢复",
+      "期末考试挂科了会怎样",
+      "大学毕业找不到工作有多难"
+    ]
+  },
+  {
+    "student_id": "STU_20240192",
+    "structured_data": {
+      "math_score": 90.1,
+      "politics_score": 90.9,
+      "login_count": 36.0,
+      "video_completion_rate": 0.88
+    },
+    "unstructured_texts": [
+      "深度学习论文推荐",
+      "中国人工智能发展史太震撼了",
+      "如何评价最新的大语言模型"
+    ]
+  },
+  {
+    "student_id": "STU_20240193",
+    "structured_data": {
+      "math_score": 83.9,
+      "politics_score": 73.2,
+      "login_count": 24.0,
+      "video_completion_rate": 0.74
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "晚上宿舍开黑有人吗",
+      "这学期的水课有哪些推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240194",
+    "structured_data": {
+      "math_score": 82.0,
+      "politics_score": 82.1,
+      "login_count": 30.0,
+      "video_completion_rate": 0.65
+    },
+    "unstructured_texts": [
+      "学校食堂哪家最好吃",
+      "周末求推荐校园周边的剧本杀",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240195",
+    "structured_data": {
+      "math_score": 55.6,
+      "politics_score": 51.2,
+      "login_count": 5.0,
+      "video_completion_rate": 0.28
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "考研数学复习毫无头绪怎么办",
+      "期末考试挂科了会怎样",
+      "熬夜脱发严重怎么恢复"
+    ]
+  },
+  {
+    "student_id": "STU_20240196",
+    "structured_data": {
+      "math_score": 70.9,
+      "politics_score": 80.6,
+      "login_count": 30.0,
+      "video_completion_rate": 0.68
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "校园歌手大赛报名入口",
+      "学校食堂哪家最好吃",
+      "这学期的水课有哪些推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240197",
+    "structured_data": {
+      "math_score": 80.4,
+      "politics_score": 75.2,
+      "login_count": 21.0,
+      "video_completion_rate": 0.59
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "学生会竞选经验分享",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240198",
+    "structured_data": {
+      "math_score": 69.8,
+      "politics_score": 58.7,
+      "login_count": 11.0,
+      "video_completion_rate": 0.37
+    },
+    "unstructured_texts": [
+      "期末考试挂科了会怎样",
+      "熬夜脱发严重怎么恢复",
+      "大学毕业找不到工作有多难"
+    ]
+  },
+  {
+    "student_id": "STU_20240199",
+    "structured_data": {
+      "math_score": 84.5,
+      "politics_score": 77.1,
+      "login_count": 22.0,
+      "video_completion_rate": 0.5
+    },
+    "unstructured_texts": [
+      "最新出的游戏大作评测",
+      "恋爱区求助帖",
+      "学生会竞选经验分享",
+      "这学期的水课有哪些推荐",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240200",
+    "structured_data": {
+      "math_score": 91.6,
+      "politics_score": 90.5,
+      "login_count": 38.0,
+      "video_completion_rate": 0.85
+    },
+    "unstructured_texts": [
+      "国家奖学金申请条件",
+      "中国人工智能发展史太震撼了",
+      "大国重器纪录片观后感",
+      "如何评价最新的大语言模型"
+    ]
+  },
+  {
+    "student_id": "STU_20240201",
+    "structured_data": {
+      "math_score": 66.9,
+      "politics_score": 58.1,
+      "login_count": 13.0,
+      "video_completion_rate": 0.4
+    },
+    "unstructured_texts": [
+      "考研压力太大崩溃了",
+      "大学毕业找不到工作有多难",
+      "期末考试挂科了会怎样",
+      "感觉自己什么都做不好"
+    ]
+  },
+  {
+    "student_id": "STU_20240202",
+    "structured_data": {
+      "math_score": 65.5,
+      "politics_score": 54.0,
+      "login_count": 7.0,
+      "video_completion_rate": 0.39
+    },
+    "unstructured_texts": [
+      "考研压力太大崩溃了",
+      "不想上课只想躺平",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240203",
+    "structured_data": {
+      "math_score": 91.6,
+      "politics_score": 93.1,
+      "login_count": 31.0,
+      "video_completion_rate": 0.94
+    },
+    "unstructured_texts": [
+      "中国人工智能发展史太震撼了",
+      "大国重器纪录片观后感",
+      "实验室科研项目推进计划",
+      "深度学习论文推荐",
+      "考研高数复习指南"
+    ]
+  },
+  {
+    "student_id": "STU_20240204",
+    "structured_data": {
+      "math_score": 85.0,
+      "politics_score": 81.8,
+      "login_count": 24.0,
+      "video_completion_rate": 0.59
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "校园歌手大赛报名入口",
+      "最新出的游戏大作评测",
+      "晚上宿舍开黑有人吗"
+    ]
+  },
+  {
+    "student_id": "STU_20240205",
+    "structured_data": {
+      "math_score": 65.0,
+      "politics_score": 50.8,
+      "login_count": 8.0,
+      "video_completion_rate": 0.24
+    },
+    "unstructured_texts": [
+      "就业迷茫期如何度过",
+      "不想上课只想躺平",
+      "期末考试挂科了会怎样"
+    ]
+  },
+  {
+    "student_id": "STU_20240206",
+    "structured_data": {
+      "math_score": 80.2,
+      "politics_score": 78.2,
+      "login_count": 17.0,
+      "video_completion_rate": 0.7
+    },
+    "unstructured_texts": [
+      "学生会竞选经验分享",
+      "晚上宿舍开黑有人吗",
+      "这学期的水课有哪些推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240207",
+    "structured_data": {
+      "math_score": 57.2,
+      "politics_score": 58.7,
+      "login_count": 9.0,
+      "video_completion_rate": 0.27
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "熬夜脱发严重怎么恢复",
+      "就业迷茫期如何度过",
+      "考研数学复习毫无头绪怎么办",
+      "不想上课只想躺平"
+    ]
+  },
+  {
+    "student_id": "STU_20240208",
+    "structured_data": {
+      "math_score": 72.0,
+      "politics_score": 84.6,
+      "login_count": 27.0,
+      "video_completion_rate": 0.75
+    },
+    "unstructured_texts": [
+      "晚上宿舍开黑有人吗",
+      "恋爱区求助帖",
+      "最新出的游戏大作评测",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240209",
+    "structured_data": {
+      "math_score": 68.0,
+      "politics_score": 56.9,
+      "login_count": 14.0,
+      "video_completion_rate": 0.35
+    },
+    "unstructured_texts": [
+      "考研压力太大崩溃了",
+      "熬夜脱发严重怎么恢复",
+      "考研数学复习毫无头绪怎么办",
+      "大学毕业找不到工作有多难",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240210",
+    "structured_data": {
+      "math_score": 53.5,
+      "politics_score": 58.2,
+      "login_count": 11.0,
+      "video_completion_rate": 0.38
+    },
+    "unstructured_texts": [
+      "感觉自己什么都做不好",
+      "熬夜脱发严重怎么恢复",
+      "就业迷茫期如何度过",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240211",
+    "structured_data": {
+      "math_score": 72.8,
+      "politics_score": 80.5,
+      "login_count": 21.0,
+      "video_completion_rate": 0.57
+    },
+    "unstructured_texts": [
+      "最新出的游戏大作评测",
+      "学生会竞选经验分享",
+      "这学期的水课有哪些推荐",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240212",
+    "structured_data": {
+      "math_score": 95.9,
+      "politics_score": 83.1,
+      "login_count": 38.0,
+      "video_completion_rate": 0.9
+    },
+    "unstructured_texts": [
+      "强国科技与航天工程",
+      "国家奖学金申请条件",
+      "中国人工智能发展史太震撼了"
+    ]
+  },
+  {
+    "student_id": "STU_20240213",
+    "structured_data": {
+      "math_score": 77.6,
+      "politics_score": 81.0,
+      "login_count": 21.0,
+      "video_completion_rate": 0.52
+    },
+    "unstructured_texts": [
+      "最新出的游戏大作评测",
+      "学生会竞选经验分享",
+      "这学期的水课有哪些推荐",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240214",
+    "structured_data": {
+      "math_score": 62.2,
+      "politics_score": 69.8,
+      "login_count": 9.0,
+      "video_completion_rate": 0.49
+    },
+    "unstructured_texts": [
+      "不想上课只想躺平",
+      "期末考试挂科了会怎样",
+      "考研数学复习毫无头绪怎么办",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240215",
+    "structured_data": {
+      "math_score": 64.1,
+      "politics_score": 57.4,
+      "login_count": 6.0,
+      "video_completion_rate": 0.41
+    },
+    "unstructured_texts": [
+      "就业迷茫期如何度过",
+      "考研数学复习毫无头绪怎么办",
+      "考研压力太大崩溃了",
+      "熬夜脱发严重怎么恢复",
+      "期末考试挂科了会怎样"
+    ]
+  },
+  {
+    "student_id": "STU_20240216",
+    "structured_data": {
+      "math_score": 68.2,
+      "politics_score": 57.0,
+      "login_count": 9.0,
+      "video_completion_rate": 0.37
+    },
+    "unstructured_texts": [
+      "期末考试挂科了会怎样",
+      "熬夜脱发严重怎么恢复",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240217",
+    "structured_data": {
+      "math_score": 84.7,
+      "politics_score": 76.1,
+      "login_count": 19.0,
+      "video_completion_rate": 0.69
+    },
+    "unstructured_texts": [
+      "这学期的水课有哪些推荐",
+      "学生会竞选经验分享",
+      "周末求推荐校园周边的剧本杀",
+      "最新出的游戏大作评测",
+      "学校食堂哪家最好吃"
+    ]
+  },
+  {
+    "student_id": "STU_20240218",
+    "structured_data": {
+      "math_score": 92.0,
+      "politics_score": 86.8,
+      "login_count": 39.0,
+      "video_completion_rate": 0.96
+    },
+    "unstructured_texts": [
+      "深度学习论文推荐",
+      "实验室科研项目推进计划",
+      "如何评价最新的大语言模型",
+      "强国科技与航天工程"
+    ]
+  },
+  {
+    "student_id": "STU_20240219",
+    "structured_data": {
+      "math_score": 75.5,
+      "politics_score": 73.8,
+      "login_count": 22.0,
+      "video_completion_rate": 0.54
+    },
+    "unstructured_texts": [
+      "学校食堂哪家最好吃",
+      "校园歌手大赛报名入口",
+      "这学期的水课有哪些推荐",
+      "最新出的游戏大作评测",
+      "周末求推荐校园周边的剧本杀"
+    ]
+  },
+  {
+    "student_id": "STU_20240220",
+    "structured_data": {
+      "math_score": 77.4,
+      "politics_score": 76.1,
+      "login_count": 30.0,
+      "video_completion_rate": 0.58
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "最新出的游戏大作评测",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240221",
+    "structured_data": {
+      "math_score": 79.4,
+      "politics_score": 83.4,
+      "login_count": 25.0,
+      "video_completion_rate": 0.78
+    },
+    "unstructured_texts": [
+      "校园歌手大赛报名入口",
+      "最新出的游戏大作评测",
+      "这学期的水课有哪些推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240222",
+    "structured_data": {
+      "math_score": 74.1,
+      "politics_score": 76.6,
+      "login_count": 28.0,
+      "video_completion_rate": 0.75
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "学生会竞选经验分享",
+      "这学期的水课有哪些推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240223",
+    "structured_data": {
+      "math_score": 75.3,
+      "politics_score": 78.6,
+      "login_count": 28.0,
+      "video_completion_rate": 0.69
+    },
+    "unstructured_texts": [
+      "晚上宿舍开黑有人吗",
+      "校园歌手大赛报名入口",
+      "学校食堂哪家最好吃"
+    ]
+  },
+  {
+    "student_id": "STU_20240224",
+    "structured_data": {
+      "math_score": 98.1,
+      "politics_score": 90.6,
+      "login_count": 47.0,
+      "video_completion_rate": 0.89
+    },
+    "unstructured_texts": [
+      "强国科技与航天工程",
+      "考研高数复习指南",
+      "深度学习论文推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240225",
+    "structured_data": {
+      "math_score": 86.8,
+      "politics_score": 94.3,
+      "login_count": 40.0,
+      "video_completion_rate": 0.81
+    },
+    "unstructured_texts": [
+      "国家奖学金申请条件",
+      "强国科技与航天工程",
+      "考研高数复习指南",
+      "如何评价最新的大语言模型"
+    ]
+  },
+  {
+    "student_id": "STU_20240226",
+    "structured_data": {
+      "math_score": 83.8,
+      "politics_score": 96.3,
+      "login_count": 30.0,
+      "video_completion_rate": 0.9
+    },
+    "unstructured_texts": [
+      "国家奖学金申请条件",
+      "考研高数复习指南",
+      "深度学习论文推荐",
+      "大国重器纪录片观后感"
+    ]
+  },
+  {
+    "student_id": "STU_20240227",
+    "structured_data": {
+      "math_score": 76.0,
+      "politics_score": 76.8,
+      "login_count": 22.0,
+      "video_completion_rate": 0.69
+    },
+    "unstructured_texts": [
+      "学校食堂哪家最好吃",
+      "这学期的水课有哪些推荐",
+      "最新出的游戏大作评测",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240228",
+    "structured_data": {
+      "math_score": 51.7,
+      "politics_score": 57.7,
+      "login_count": 8.0,
+      "video_completion_rate": 0.45
+    },
+    "unstructured_texts": [
+      "考研压力太大崩溃了",
+      "大学毕业找不到工作有多难",
+      "感觉自己什么都做不好",
+      "期末考试挂科了会怎样"
+    ]
+  },
+  {
+    "student_id": "STU_20240229",
+    "structured_data": {
+      "math_score": 99.4,
+      "politics_score": 95.6,
+      "login_count": 48.0,
+      "video_completion_rate": 0.97
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "国家奖学金申请条件",
+      "中国人工智能发展史太震撼了",
+      "强国科技与航天工程"
+    ]
+  },
+  {
+    "student_id": "STU_20240230",
+    "structured_data": {
+      "math_score": 83.5,
+      "politics_score": 78.1,
+      "login_count": 16.0,
+      "video_completion_rate": 0.52
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "学校食堂哪家最好吃",
+      "周末求推荐校园周边的剧本杀"
+    ]
+  },
+  {
+    "student_id": "STU_20240231",
+    "structured_data": {
+      "math_score": 90.2,
+      "politics_score": 81.4,
+      "login_count": 48.0,
+      "video_completion_rate": 0.91
+    },
+    "unstructured_texts": [
+      "深度学习论文推荐",
+      "强国科技与航天工程",
+      "中国人工智能发展史太震撼了"
+    ]
+  },
+  {
+    "student_id": "STU_20240232",
+    "structured_data": {
+      "math_score": 98.1,
+      "politics_score": 91.2,
+      "login_count": 30.0,
+      "video_completion_rate": 0.99
+    },
+    "unstructured_texts": [
+      "国家奖学金申请条件",
+      "实验室科研项目推进计划",
+      "大国重器纪录片观后感",
+      "中国人工智能发展史太震撼了",
+      "如何评价最新的大语言模型"
+    ]
+  },
+  {
+    "student_id": "STU_20240233",
+    "structured_data": {
+      "math_score": 59.0,
+      "politics_score": 55.0,
+      "login_count": 10.0,
+      "video_completion_rate": 0.45
+    },
+    "unstructured_texts": [
+      "考研压力太大崩溃了",
+      "大学毕业找不到工作有多难",
+      "熬夜脱发严重怎么恢复",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240234",
+    "structured_data": {
+      "math_score": 51.3,
+      "politics_score": 67.6,
+      "login_count": 9.0,
+      "video_completion_rate": 0.31
+    },
+    "unstructured_texts": [
+      "就业迷茫期如何度过",
+      "考研压力太大崩溃了",
+      "大学毕业找不到工作有多难",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240235",
+    "structured_data": {
+      "math_score": 89.3,
+      "politics_score": 95.6,
+      "login_count": 45.0,
+      "video_completion_rate": 0.97
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "深度学习论文推荐",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240236",
+    "structured_data": {
+      "math_score": 86.0,
+      "politics_score": 87.6,
+      "login_count": 42.0,
+      "video_completion_rate": 0.88
+    },
+    "unstructured_texts": [
+      "中国人工智能发展史太震撼了",
+      "实验室科研项目推进计划",
+      "强国科技与航天工程"
+    ]
+  },
+  {
+    "student_id": "STU_20240237",
+    "structured_data": {
+      "math_score": 59.9,
+      "politics_score": 69.5,
+      "login_count": 7.0,
+      "video_completion_rate": 0.25
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "考研数学复习毫无头绪怎么办",
+      "期末考试挂科了会怎样",
+      "就业迷茫期如何度过",
+      "不想上课只想躺平"
+    ]
+  },
+  {
+    "student_id": "STU_20240238",
+    "structured_data": {
+      "math_score": 57.7,
+      "politics_score": 61.3,
+      "login_count": 14.0,
+      "video_completion_rate": 0.29
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "就业迷茫期如何度过",
+      "考研数学复习毫无头绪怎么办",
+      "期末考试挂科了会怎样",
+      "感觉自己什么都做不好"
+    ]
+  },
+  {
+    "student_id": "STU_20240239",
+    "structured_data": {
+      "math_score": 81.4,
+      "politics_score": 75.6,
+      "login_count": 27.0,
+      "video_completion_rate": 0.61
+    },
+    "unstructured_texts": [
+      "学生会竞选经验分享",
+      "晚上宿舍开黑有人吗",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240240",
+    "structured_data": {
+      "math_score": 71.0,
+      "politics_score": 78.8,
+      "login_count": 18.0,
+      "video_completion_rate": 0.71
+    },
+    "unstructured_texts": [
+      "晚上宿舍开黑有人吗",
+      "最新出的游戏大作评测",
+      "学生会竞选经验分享",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240241",
+    "structured_data": {
+      "math_score": 84.4,
+      "politics_score": 83.9,
+      "login_count": 37.0,
+      "video_completion_rate": 0.85
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "大国重器纪录片观后感",
+      "实验室科研项目推进计划"
+    ]
+  },
+  {
+    "student_id": "STU_20240242",
+    "structured_data": {
+      "math_score": 97.5,
+      "politics_score": 81.8,
+      "login_count": 43.0,
+      "video_completion_rate": 0.88
+    },
+    "unstructured_texts": [
+      "国家奖学金申请条件",
+      "大国重器纪录片观后感",
+      "考研高数复习指南"
+    ]
+  },
+  {
+    "student_id": "STU_20240243",
+    "structured_data": {
+      "math_score": 89.7,
+      "politics_score": 98.2,
+      "login_count": 31.0,
+      "video_completion_rate": 0.86
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "大国重器纪录片观后感",
+      "中国人工智能发展史太震撼了",
+      "深度学习论文推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240244",
+    "structured_data": {
+      "math_score": 78.7,
+      "politics_score": 82.8,
+      "login_count": 29.0,
+      "video_completion_rate": 0.78
+    },
+    "unstructured_texts": [
+      "这学期的水课有哪些推荐",
+      "学校食堂哪家最好吃",
+      "最新出的游戏大作评测",
+      "晚上宿舍开黑有人吗",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240245",
+    "structured_data": {
+      "math_score": 61.7,
+      "politics_score": 66.2,
+      "login_count": 11.0,
+      "video_completion_rate": 0.29
+    },
+    "unstructured_texts": [
+      "考研数学复习毫无头绪怎么办",
+      "考研压力太大崩溃了",
+      "感觉自己什么都做不好"
+    ]
+  },
+  {
+    "student_id": "STU_20240246",
+    "structured_data": {
+      "math_score": 63.2,
+      "politics_score": 70.0,
+      "login_count": 10.0,
+      "video_completion_rate": 0.34
+    },
+    "unstructured_texts": [
+      "感觉自己什么都做不好",
+      "熬夜脱发严重怎么恢复",
+      "不想上课只想躺平"
+    ]
+  },
+  {
+    "student_id": "STU_20240247",
+    "structured_data": {
+      "math_score": 83.6,
+      "politics_score": 73.5,
+      "login_count": 21.0,
+      "video_completion_rate": 0.57
+    },
+    "unstructured_texts": [
+      "学校食堂哪家最好吃",
+      "周末求推荐校园周边的剧本杀",
+      "最新出的游戏大作评测",
+      "晚上宿舍开黑有人吗",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240248",
+    "structured_data": {
+      "math_score": 68.5,
+      "politics_score": 61.4,
+      "login_count": 10.0,
+      "video_completion_rate": 0.33
+    },
+    "unstructured_texts": [
+      "熬夜脱发严重怎么恢复",
+      "就业迷茫期如何度过",
+      "大学毕业找不到工作有多难",
+      "不想上课只想躺平",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240249",
+    "structured_data": {
+      "math_score": 79.5,
+      "politics_score": 81.4,
+      "login_count": 17.0,
+      "video_completion_rate": 0.75
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "最新出的游戏大作评测",
+      "晚上宿舍开黑有人吗"
+    ]
+  },
+  {
+    "student_id": "STU_20240250",
+    "structured_data": {
+      "math_score": 82.6,
+      "politics_score": 74.2,
+      "login_count": 19.0,
+      "video_completion_rate": 0.73
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "晚上宿舍开黑有人吗",
+      "周末求推荐校园周边的剧本杀",
+      "这学期的水课有哪些推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240251",
+    "structured_data": {
+      "math_score": 52.3,
+      "politics_score": 69.2,
+      "login_count": 12.0,
+      "video_completion_rate": 0.42
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "考研压力太大崩溃了",
+      "就业迷茫期如何度过",
+      "熬夜脱发严重怎么恢复"
+    ]
+  },
+  {
+    "student_id": "STU_20240252",
+    "structured_data": {
+      "math_score": 83.9,
+      "politics_score": 81.4,
+      "login_count": 23.0,
+      "video_completion_rate": 0.55
+    },
+    "unstructured_texts": [
+      "最新出的游戏大作评测",
+      "周末求推荐校园周边的剧本杀",
+      "学生会竞选经验分享",
+      "学校食堂哪家最好吃",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240253",
+    "structured_data": {
+      "math_score": 79.9,
+      "politics_score": 82.8,
+      "login_count": 16.0,
+      "video_completion_rate": 0.69
+    },
+    "unstructured_texts": [
+      "这学期的水课有哪些推荐",
+      "校园歌手大赛报名入口",
+      "晚上宿舍开黑有人吗",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240254",
+    "structured_data": {
+      "math_score": 68.1,
+      "politics_score": 52.5,
+      "login_count": 13.0,
+      "video_completion_rate": 0.43
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "不想上课只想躺平",
+      "考研压力太大崩溃了",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240255",
+    "structured_data": {
+      "math_score": 64.3,
+      "politics_score": 68.7,
+      "login_count": 12.0,
+      "video_completion_rate": 0.23
+    },
+    "unstructured_texts": [
+      "考研数学复习毫无头绪怎么办",
+      "感觉自己什么都做不好",
+      "就业迷茫期如何度过",
+      "期末考试挂科了会怎样",
+      "熬夜脱发严重怎么恢复"
+    ]
+  },
+  {
+    "student_id": "STU_20240256",
+    "structured_data": {
+      "math_score": 51.3,
+      "politics_score": 61.4,
+      "login_count": 15.0,
+      "video_completion_rate": 0.36
+    },
+    "unstructured_texts": [
+      "考研压力太大崩溃了",
+      "感觉自己什么都做不好",
+      "大学毕业找不到工作有多难",
+      "期末考试挂科了会怎样",
+      "熬夜脱发严重怎么恢复"
+    ]
+  },
+  {
+    "student_id": "STU_20240257",
+    "structured_data": {
+      "math_score": 86.8,
+      "politics_score": 90.9,
+      "login_count": 46.0,
+      "video_completion_rate": 0.9
+    },
+    "unstructured_texts": [
+      "如何评价最新的大语言模型",
+      "中国人工智能发展史太震撼了",
+      "考研高数复习指南",
+      "大国重器纪录片观后感",
+      "深度学习论文推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240258",
+    "structured_data": {
+      "math_score": 98.8,
+      "politics_score": 80.2,
+      "login_count": 34.0,
+      "video_completion_rate": 0.99
+    },
+    "unstructured_texts": [
+      "深度学习论文推荐",
+      "强国科技与航天工程",
+      "大国重器纪录片观后感",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240259",
+    "structured_data": {
+      "math_score": 53.1,
+      "politics_score": 54.2,
+      "login_count": 10.0,
+      "video_completion_rate": 0.23
+    },
+    "unstructured_texts": [
+      "期末考试挂科了会怎样",
+      "感觉自己什么都做不好",
+      "熬夜脱发严重怎么恢复"
+    ]
+  },
+  {
+    "student_id": "STU_20240260",
+    "structured_data": {
+      "math_score": 92.1,
+      "politics_score": 88.2,
+      "login_count": 35.0,
+      "video_completion_rate": 1.0
+    },
+    "unstructured_texts": [
+      "实验室科研项目推进计划",
+      "如何评价最新的大语言模型",
+      "强国科技与航天工程",
+      "考研高数复习指南"
+    ]
+  },
+  {
+    "student_id": "STU_20240261",
+    "structured_data": {
+      "math_score": 58.5,
+      "politics_score": 51.7,
+      "login_count": 15.0,
+      "video_completion_rate": 0.29
+    },
+    "unstructured_texts": [
+      "不想上课只想躺平",
+      "熬夜脱发严重怎么恢复",
+      "考研压力太大崩溃了"
+    ]
+  },
+  {
+    "student_id": "STU_20240262",
+    "structured_data": {
+      "math_score": 65.8,
+      "politics_score": 68.6,
+      "login_count": 7.0,
+      "video_completion_rate": 0.43
+    },
+    "unstructured_texts": [
+      "就业迷茫期如何度过",
+      "大学毕业找不到工作有多难",
+      "考研压力太大崩溃了"
+    ]
+  },
+  {
+    "student_id": "STU_20240263",
+    "structured_data": {
+      "math_score": 85.6,
+      "politics_score": 93.7,
+      "login_count": 50.0,
+      "video_completion_rate": 0.99
+    },
+    "unstructured_texts": [
+      "中国人工智能发展史太震撼了",
+      "深度学习论文推荐",
+      "大国重器纪录片观后感"
+    ]
+  },
+  {
+    "student_id": "STU_20240264",
+    "structured_data": {
+      "math_score": 89.3,
+      "politics_score": 95.8,
+      "login_count": 32.0,
+      "video_completion_rate": 0.98
+    },
+    "unstructured_texts": [
+      "强国科技与航天工程",
+      "中国人工智能发展史太震撼了",
+      "如何评价最新的大语言模型",
+      "大国重器纪录片观后感",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240265",
+    "structured_data": {
+      "math_score": 84.7,
+      "politics_score": 80.4,
+      "login_count": 27.0,
+      "video_completion_rate": 0.74
+    },
+    "unstructured_texts": [
+      "学校食堂哪家最好吃",
+      "周末求推荐校园周边的剧本杀",
+      "恋爱区求助帖",
+      "这学期的水课有哪些推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240266",
+    "structured_data": {
+      "math_score": 60.5,
+      "politics_score": 66.2,
+      "login_count": 15.0,
+      "video_completion_rate": 0.33
+    },
+    "unstructured_texts": [
+      "考研压力太大崩溃了",
+      "感觉自己什么都做不好",
+      "熬夜脱发严重怎么恢复",
+      "考研数学复习毫无头绪怎么办",
+      "期末考试挂科了会怎样"
+    ]
+  },
+  {
+    "student_id": "STU_20240267",
+    "structured_data": {
+      "math_score": 64.4,
+      "politics_score": 58.7,
+      "login_count": 9.0,
+      "video_completion_rate": 0.36
+    },
+    "unstructured_texts": [
+      "感觉自己什么都做不好",
+      "就业迷茫期如何度过",
+      "考研数学复习毫无头绪怎么办",
+      "期末考试挂科了会怎样",
+      "熬夜脱发严重怎么恢复"
+    ]
+  },
+  {
+    "student_id": "STU_20240268",
+    "structured_data": {
+      "math_score": 89.9,
+      "politics_score": 95.5,
+      "login_count": 46.0,
+      "video_completion_rate": 0.87
+    },
+    "unstructured_texts": [
+      "实验室科研项目推进计划",
+      "考研高数复习指南",
+      "强国科技与航天工程",
+      "国家奖学金申请条件",
+      "深度学习论文推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240269",
+    "structured_data": {
+      "math_score": 88.0,
+      "politics_score": 82.2,
+      "login_count": 37.0,
+      "video_completion_rate": 0.99
+    },
+    "unstructured_texts": [
+      "中国人工智能发展史太震撼了",
+      "大国重器纪录片观后感",
+      "如何评价最新的大语言模型",
+      "实验室科研项目推进计划",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240270",
+    "structured_data": {
+      "math_score": 68.7,
+      "politics_score": 58.4,
+      "login_count": 13.0,
+      "video_completion_rate": 0.48
+    },
+    "unstructured_texts": [
+      "就业迷茫期如何度过",
+      "考研数学复习毫无头绪怎么办",
+      "考研压力太大崩溃了",
+      "感觉自己什么都做不好",
+      "大学毕业找不到工作有多难"
+    ]
+  },
+  {
+    "student_id": "STU_20240271",
+    "structured_data": {
+      "math_score": 59.5,
+      "politics_score": 50.5,
+      "login_count": 5.0,
+      "video_completion_rate": 0.49
+    },
+    "unstructured_texts": [
+      "考研压力太大崩溃了",
+      "就业迷茫期如何度过",
+      "感觉自己什么都做不好",
+      "不想上课只想躺平"
+    ]
+  },
+  {
+    "student_id": "STU_20240272",
+    "structured_data": {
+      "math_score": 98.2,
+      "politics_score": 81.5,
+      "login_count": 41.0,
+      "video_completion_rate": 0.86
+    },
+    "unstructured_texts": [
+      "深度学习论文推荐",
+      "强国科技与航天工程",
+      "中国人工智能发展史太震撼了",
+      "考研高数复习指南"
+    ]
+  },
+  {
+    "student_id": "STU_20240273",
+    "structured_data": {
+      "math_score": 56.2,
+      "politics_score": 55.1,
+      "login_count": 11.0,
+      "video_completion_rate": 0.29
+    },
+    "unstructured_texts": [
+      "考研数学复习毫无头绪怎么办",
+      "感觉自己什么都做不好",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240274",
+    "structured_data": {
+      "math_score": 51.4,
+      "politics_score": 52.0,
+      "login_count": 5.0,
+      "video_completion_rate": 0.32
+    },
+    "unstructured_texts": [
+      "考研数学复习毫无头绪怎么办",
+      "熬夜脱发严重怎么恢复",
+      "不想上课只想躺平",
+      "期末考试挂科了会怎样",
+      "感觉自己什么都做不好"
+    ]
+  },
+  {
+    "student_id": "STU_20240275",
+    "structured_data": {
+      "math_score": 73.2,
+      "politics_score": 84.0,
+      "login_count": 26.0,
+      "video_completion_rate": 0.61
+    },
+    "unstructured_texts": [
+      "晚上宿舍开黑有人吗",
+      "学校食堂哪家最好吃",
+      "校园歌手大赛报名入口"
+    ]
+  },
+  {
+    "student_id": "STU_20240276",
+    "structured_data": {
+      "math_score": 97.0,
+      "politics_score": 90.6,
+      "login_count": 34.0,
+      "video_completion_rate": 0.84
+    },
+    "unstructured_texts": [
+      "考研高数复习指南",
+      "如何评价最新的大语言模型",
+      "实验室科研项目推进计划",
+      "中国人工智能发展史太震撼了",
+      "国家奖学金申请条件"
+    ]
+  },
+  {
+    "student_id": "STU_20240277",
+    "structured_data": {
+      "math_score": 62.4,
+      "politics_score": 55.2,
+      "login_count": 12.0,
+      "video_completion_rate": 0.38
+    },
+    "unstructured_texts": [
+      "期末考试挂科了会怎样",
+      "大学毕业找不到工作有多难",
+      "感觉自己什么都做不好",
+      "考研压力太大崩溃了"
+    ]
+  },
+  {
+    "student_id": "STU_20240278",
+    "structured_data": {
+      "math_score": 84.9,
+      "politics_score": 72.9,
+      "login_count": 15.0,
+      "video_completion_rate": 0.55
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "校园歌手大赛报名入口",
+      "晚上宿舍开黑有人吗"
+    ]
+  },
+  {
+    "student_id": "STU_20240279",
+    "structured_data": {
+      "math_score": 81.7,
+      "politics_score": 84.2,
+      "login_count": 20.0,
+      "video_completion_rate": 0.75
+    },
+    "unstructured_texts": [
+      "学校食堂哪家最好吃",
+      "这学期的水课有哪些推荐",
+      "恋爱区求助帖",
+      "周末求推荐校园周边的剧本杀",
+      "晚上宿舍开黑有人吗"
+    ]
+  },
+  {
+    "student_id": "STU_20240280",
+    "structured_data": {
+      "math_score": 74.1,
+      "politics_score": 77.1,
+      "login_count": 23.0,
+      "video_completion_rate": 0.74
+    },
+    "unstructured_texts": [
+      "晚上宿舍开黑有人吗",
+      "学生会竞选经验分享",
+      "校园歌手大赛报名入口",
+      "恋爱区求助帖",
+      "这学期的水课有哪些推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240281",
+    "structured_data": {
+      "math_score": 69.4,
+      "politics_score": 53.9,
+      "login_count": 12.0,
+      "video_completion_rate": 0.23
+    },
+    "unstructured_texts": [
+      "感觉自己什么都做不好",
+      "考研压力太大崩溃了",
+      "不想上课只想躺平",
+      "考研数学复习毫无头绪怎么办",
+      "期末考试挂科了会怎样"
+    ]
+  },
+  {
+    "student_id": "STU_20240282",
+    "structured_data": {
+      "math_score": 80.2,
+      "politics_score": 77.5,
+      "login_count": 28.0,
+      "video_completion_rate": 0.59
+    },
+    "unstructured_texts": [
+      "周末求推荐校园周边的剧本杀",
+      "恋爱区求助帖",
+      "最新出的游戏大作评测"
+    ]
+  },
+  {
+    "student_id": "STU_20240283",
+    "structured_data": {
+      "math_score": 74.2,
+      "politics_score": 79.0,
+      "login_count": 24.0,
+      "video_completion_rate": 0.79
+    },
+    "unstructured_texts": [
+      "学校食堂哪家最好吃",
+      "这学期的水课有哪些推荐",
+      "最新出的游戏大作评测",
+      "晚上宿舍开黑有人吗"
+    ]
+  },
+  {
+    "student_id": "STU_20240284",
+    "structured_data": {
+      "math_score": 54.6,
+      "politics_score": 59.5,
+      "login_count": 8.0,
+      "video_completion_rate": 0.44
+    },
+    "unstructured_texts": [
+      "考研数学复习毫无头绪怎么办",
+      "熬夜脱发严重怎么恢复",
+      "期末考试挂科了会怎样",
+      "大学毕业找不到工作有多难",
+      "就业迷茫期如何度过"
+    ]
+  },
+  {
+    "student_id": "STU_20240285",
+    "structured_data": {
+      "math_score": 66.1,
+      "politics_score": 68.2,
+      "login_count": 11.0,
+      "video_completion_rate": 0.43
+    },
+    "unstructured_texts": [
+      "不想上课只想躺平",
+      "期末考试挂科了会怎样",
+      "感觉自己什么都做不好",
+      "就业迷茫期如何度过",
+      "考研压力太大崩溃了"
+    ]
+  },
+  {
+    "student_id": "STU_20240286",
+    "structured_data": {
+      "math_score": 62.0,
+      "politics_score": 61.9,
+      "login_count": 5.0,
+      "video_completion_rate": 0.21
+    },
+    "unstructured_texts": [
+      "考研数学复习毫无头绪怎么办",
+      "期末考试挂科了会怎样",
+      "就业迷茫期如何度过",
+      "考研压力太大崩溃了"
+    ]
+  },
+  {
+    "student_id": "STU_20240287",
+    "structured_data": {
+      "math_score": 51.7,
+      "politics_score": 68.5,
+      "login_count": 9.0,
+      "video_completion_rate": 0.26
+    },
+    "unstructured_texts": [
+      "就业迷茫期如何度过",
+      "期末考试挂科了会怎样",
+      "考研数学复习毫无头绪怎么办",
+      "大学毕业找不到工作有多难"
+    ]
+  },
+  {
+    "student_id": "STU_20240288",
+    "structured_data": {
+      "math_score": 52.6,
+      "politics_score": 66.8,
+      "login_count": 9.0,
+      "video_completion_rate": 0.2
+    },
+    "unstructured_texts": [
+      "就业迷茫期如何度过",
+      "不想上课只想躺平",
+      "感觉自己什么都做不好",
+      "考研数学复习毫无头绪怎么办",
+      "大学毕业找不到工作有多难"
+    ]
+  },
+  {
+    "student_id": "STU_20240289",
+    "structured_data": {
+      "math_score": 52.8,
+      "politics_score": 58.6,
+      "login_count": 13.0,
+      "video_completion_rate": 0.44
+    },
+    "unstructured_texts": [
+      "考研数学复习毫无头绪怎么办",
+      "大学毕业找不到工作有多难",
+      "就业迷茫期如何度过",
+      "感觉自己什么都做不好"
+    ]
+  },
+  {
+    "student_id": "STU_20240290",
+    "structured_data": {
+      "math_score": 83.7,
+      "politics_score": 84.8,
+      "login_count": 33.0,
+      "video_completion_rate": 0.92
+    },
+    "unstructured_texts": [
+      "中国人工智能发展史太震撼了",
+      "实验室科研项目推进计划",
+      "如何评价最新的大语言模型",
+      "国家奖学金申请条件",
+      "深度学习论文推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240291",
+    "structured_data": {
+      "math_score": 91.1,
+      "politics_score": 87.2,
+      "login_count": 48.0,
+      "video_completion_rate": 0.88
+    },
+    "unstructured_texts": [
+      "考研高数复习指南",
+      "国家奖学金申请条件",
+      "中国人工智能发展史太震撼了"
+    ]
+  },
+  {
+    "student_id": "STU_20240292",
+    "structured_data": {
+      "math_score": 85.0,
+      "politics_score": 80.2,
+      "login_count": 40.0,
+      "video_completion_rate": 0.8
+    },
+    "unstructured_texts": [
+      "强国科技与航天工程",
+      "国家奖学金申请条件",
+      "深度学习论文推荐",
+      "如何评价最新的大语言模型"
+    ]
+  },
+  {
+    "student_id": "STU_20240293",
+    "structured_data": {
+      "math_score": 99.3,
+      "politics_score": 80.3,
+      "login_count": 39.0,
+      "video_completion_rate": 0.85
+    },
+    "unstructured_texts": [
+      "实验室科研项目推进计划",
+      "深度学习论文推荐",
+      "强国科技与航天工程",
+      "大国重器纪录片观后感"
+    ]
+  },
+  {
+    "student_id": "STU_20240294",
+    "structured_data": {
+      "math_score": 84.7,
+      "politics_score": 89.8,
+      "login_count": 40.0,
+      "video_completion_rate": 0.97
+    },
+    "unstructured_texts": [
+      "大国重器纪录片观后感",
+      "考研高数复习指南",
+      "强国科技与航天工程",
+      "如何评价最新的大语言模型"
+    ]
+  },
+  {
+    "student_id": "STU_20240295",
+    "structured_data": {
+      "math_score": 55.1,
+      "politics_score": 51.3,
+      "login_count": 11.0,
+      "video_completion_rate": 0.29
+    },
+    "unstructured_texts": [
+      "大学毕业找不到工作有多难",
+      "感觉自己什么都做不好",
+      "熬夜脱发严重怎么恢复",
+      "不想上课只想躺平",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240296",
+    "structured_data": {
+      "math_score": 54.9,
+      "politics_score": 69.5,
+      "login_count": 14.0,
+      "video_completion_rate": 0.28
+    },
+    "unstructured_texts": [
+      "期末考试挂科了会怎样",
+      "大学毕业找不到工作有多难",
+      "考研压力太大崩溃了",
+      "考研数学复习毫无头绪怎么办"
+    ]
+  },
+  {
+    "student_id": "STU_20240297",
+    "structured_data": {
+      "math_score": 72.0,
+      "politics_score": 72.5,
+      "login_count": 22.0,
+      "video_completion_rate": 0.55
+    },
+    "unstructured_texts": [
+      "最新出的游戏大作评测",
+      "学校食堂哪家最好吃",
+      "学生会竞选经验分享",
+      "周末求推荐校园周边的剧本杀",
+      "恋爱区求助帖"
+    ]
+  },
+  {
+    "student_id": "STU_20240298",
+    "structured_data": {
+      "math_score": 76.2,
+      "politics_score": 78.3,
+      "login_count": 17.0,
+      "video_completion_rate": 0.76
+    },
+    "unstructured_texts": [
+      "恋爱区求助帖",
+      "晚上宿舍开黑有人吗",
+      "学校食堂哪家最好吃",
+      "最新出的游戏大作评测"
+    ]
+  },
+  {
+    "student_id": "STU_20240299",
+    "structured_data": {
+      "math_score": 83.5,
+      "politics_score": 71.3,
+      "login_count": 21.0,
+      "video_completion_rate": 0.65
+    },
+    "unstructured_texts": [
+      "最新出的游戏大作评测",
+      "周末求推荐校园周边的剧本杀",
+      "学校食堂哪家最好吃",
+      "晚上宿舍开黑有人吗",
+      "这学期的水课有哪些推荐"
+    ]
+  },
+  {
+    "student_id": "STU_20240300",
+    "structured_data": {
+      "math_score": 60.4,
+      "politics_score": 55.8,
+      "login_count": 10.0,
+      "video_completion_rate": 0.3
+    },
+    "unstructured_texts": [
+      "熬夜脱发严重怎么恢复",
+      "考研压力太大崩溃了",
+      "感觉自己什么都做不好"
+    ]
+  }
+]
