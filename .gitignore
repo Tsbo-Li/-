@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Data / artifacts
+ideological_profiling_system/data/*.json
+
+# OS
+.DS_Store
+Thumbs.db
