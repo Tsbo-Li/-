@@ -1,6 +1,6 @@
 import datetime
 
-from database.profile_repository import ProfileRepository
+from database.student_profile_repository import StudentProfileRepository
 from services.clustering_service import ClusteringService
 from services.nlp_service import NlpService
 from services.preprocessor import Preprocessor
@@ -35,8 +35,8 @@ def main():
         "intervention_action": None,
     }
 
-    repository = ProfileRepository()
-    repository.save_profile(final_profile)
+    repository = StudentProfileRepository()
+    repository.upsert_profile(final_profile)
     repository.close()
     print("🎉 流水线执行完毕！")
 

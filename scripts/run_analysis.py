@@ -7,7 +7,7 @@ project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if project_root not in sys.path:
     sys.path.append(project_root)
 
-from database.profile_repository import ProfileRepository
+from database.student_profile_repository import StudentProfileRepository
 from services.clustering_service import ClusteringService
 from services.nlp_service import NlpService
 from services.preprocessor import Preprocessor
@@ -17,7 +17,7 @@ def run_once(student_record: Dict[str, Any]) -> None:
     preprocessor = Preprocessor()
     clustering = ClusteringService()
     nlp = NlpService()
-    repository = ProfileRepository()
+    repository = StudentProfileRepository()
 
     cleaned_num = preprocessor.clean_numeric(student_record["structured_data"])
     tokenized = preprocessor.tokenize_texts(student_record["unstructured_texts"])
@@ -35,7 +35,7 @@ def run_once(student_record: Dict[str, Any]) -> None:
         "intervention_action": None,
     }
 
-    repository.save_profile(final_profile)
+    repository.upsert_profile(final_profile)
     repository.close()
 
 
